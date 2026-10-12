@@ -1,0 +1,3004 @@
+﻿flight_id,booking_id,airline,flight_class,stops,duration_time
+F00001,MMT100003,Air India Express,Business,0,193
+F00002,MMT100005,Indigo,Economy,0,187
+F00003,MMT100006,Akasa Air Express,Economy,0,207
+F00004,MMT100007,Air India Express,Business,0,70
+F00005,MMT100010,Air India Express,Economy,0,229
+F00006,MMT100012,Spice Jet,Economy,0,205
+F00007,MMT100013,Air India Express,Business,0,228
+F00008,MMT100015,Air India Express,Economy,0,222
+F00009,MMT100016,Akasa Air Express,Economy,0,90
+F00010,MMT100019,Akasa Air Express,Premium Economy,0,114
+F00011,MMT100024,Akasa Air Express,Economy,0,70
+F00012,MMT100025,Air India Express,Premium Economy,0,182
+F00013,MMT100026,Air India Express,Business,1,94
+F00014,MMT100033,Spice Jet,Economy,0,98
+F00015,MMT100037,Air India Express,Premium Economy,0,179
+F00016,MMT100039,Air India Express,Economy,0,155
+F00017,MMT100040,Spice Jet,Premium Economy,1,202
+F00018,MMT100042,Air India Express,Economy,0,178
+F00019,MMT100043,Indigo,Economy,0,113
+F00020,MMT100046,Air India Express,Economy,0,156
+F00021,MMT100048,Indigo,Economy,0,129
+F00022,MMT100050,Air India Express,Economy,1,205
+F00023,MMT100052,Akasa Air Express,Economy,0,113
+F00024,MMT100054,Indigo,Business,1,148
+F00025,MMT100055,Spice Jet,Business,0,170
+F00026,MMT100056,Akasa Air Express,Business,1,109
+F00027,MMT100057,Air India Express,Business,0,60
+F00028,MMT100059,Akasa Air Express,Economy,0,149
+F00029,MMT100060,Akasa Air Express,Economy,0,119
+F00030,MMT100062,Spice Jet,Premium Economy,0,208
+F00031,MMT100064,Spice Jet,Economy,0,166
+F00032,MMT100065,Spice Jet,Economy,1,222
+F00033,MMT100068,Indigo,Business,0,137
+F00034,MMT100069,Akasa Air Express,Premium Economy,0,197
+F00035,MMT100071,Air India Express,Business,0,231
+F00036,MMT100073,Spice Jet,Economy,0,157
+F00037,MMT100074,Akasa Air Express,Economy,0,201
+F00038,MMT100076,Akasa Air Express,Economy,0,218
+F00039,MMT100082,Air India Express,Business,0,169
+F00040,MMT100084,Air India Express,Business,0,123
+F00041,MMT100085,Indigo,Economy,0,75
+F00042,MMT100092,Akasa Air Express,Business,0,70
+F00043,MMT100095,Air India Express,Premium Economy,0,157
+F00044,MMT100096,Air India Express,Economy,0,216
+F00045,MMT100098,Indigo,Economy,0,89
+F00046,MMT100101,Indigo,Economy,0,115
+F00047,MMT100102,Air India Express,Economy,0,155
+F00048,MMT100103,Indigo,Economy,0,132
+F00049,MMT100104,Air India Express,Economy,0,153
+F00050,MMT100105,Air India Express,Business,0,64
+F00051,MMT100107,Akasa Air Express,Economy,2,240
+F00052,MMT100108,Akasa Air Express,Premium Economy,0,73
+F00053,MMT100110,Air India Express,Economy,0,121
+F00054,MMT100111,Spice Jet,Economy,0,128
+F00055,MMT100114,Spice Jet,Economy,0,126
+F00056,MMT100115,Akasa Air Express,Economy,1,118
+F00057,MMT100123,Akasa Air Express,Premium Economy,0,227
+F00058,MMT100125,Air India Express,Economy,0,94
+F00059,MMT100127,Spice Jet,Economy,0,96
+F00060,MMT100133,Indigo,Economy,0,129
+F00061,MMT100134,Akasa Air Express,Economy,0,71
+F00062,MMT100136,Akasa Air Express,Economy,0,146
+F00063,MMT100137,Air India Express,Economy,1,231
+F00064,MMT100138,Spice Jet,Economy,0,200
+F00065,MMT100139,Indigo,Economy,0,158
+F00066,MMT100140,Air India Express,Economy,0,98
+F00067,MMT100143,Air India Express,Economy,1,125
+F00068,MMT100147,Spice Jet,Economy,0,159
+F00069,MMT100149,Akasa Air Express,Economy,0,73
+F00070,MMT100150,Air India Express,Premium Economy,1,137
+F00071,MMT100152,Indigo,Economy,1,238
+F00072,MMT100157,Spice Jet,Premium Economy,1,154
+F00073,MMT100160,Akasa Air Express,Premium Economy,0,119
+F00074,MMT100163,Air India Express,Economy,1,224
+F00075,MMT100164,Akasa Air Express,Economy,1,145
+F00076,MMT100165,Air India Express,Business,1,118
+F00077,MMT100166,Air India Express,Premium Economy,2,76
+F00078,MMT100168,Air India Express,Economy,1,170
+F00079,MMT100172,Air India Express,Business,1,205
+F00080,MMT100173,Air India Express,Economy,1,196
+F00081,MMT100176,Spice Jet,Economy,0,138
+F00082,MMT100179,Air India Express,Economy,0,222
+F00083,MMT100181,Air India Express,Premium Economy,0,163
+F00084,MMT100182,Spice Jet,Economy,0,206
+F00085,MMT100186,Akasa Air Express,Premium Economy,0,87
+F00086,MMT100187,Indigo,Premium Economy,0,201
+F00087,MMT100188,Indigo,Economy,0,61
+F00088,MMT100189,Spice Jet,Economy,0,70
+F00089,MMT100192,Spice Jet,Economy,0,99
+F00090,MMT100195,Air India Express,Economy,2,228
+F00091,MMT100197,Akasa Air Express,Economy,1,74
+F00092,MMT100198,Akasa Air Express,Economy,0,221
+F00093,MMT100201,Air India Express,Economy,0,198
+F00094,MMT100202,Air India Express,Business,0,217
+F00095,MMT100205,Air India Express,Economy,0,138
+F00096,MMT100207,Air India Express,Business,0,123
+F00097,MMT100211,Air India Express,Business,0,103
+F00098,MMT100212,Akasa Air Express,Business,1,99
+F00099,MMT100213,Akasa Air Express,Economy,1,92
+F00100,MMT100214,Akasa Air Express,Economy,0,141
+F00101,MMT100219,Akasa Air Express,Economy,0,69
+F00102,MMT100221,Indigo,Economy,0,231
+F00104,MMT100224,Air India Express,Business,1,137
+F00105,MMT100226,Indigo,Economy,1,131
+F00106,MMT100227,Spice Jet,Economy,0,139
+F00107,MMT100228,Indigo,Premium Economy,0,156
+F00108,MMT100229,Air India Express,Economy,0,133
+F00109,MMT100231,Air India Express,Economy,1,135
+F00110,MMT100232,Spice Jet,Premium Economy,1,194
+F00111,MMT100233,Spice Jet,Premium Economy,1,136
+F00112,MMT100235,Akasa Air Express,Economy,0,215
+F00113,MMT100236,Akasa Air Express,Economy,0,73
+F00114,MMT100237,Spice Jet,Premium Economy,1,87
+F00115,MMT100238,Indigo,Premium Economy,1,204
+F00116,MMT100239,Air India Express,Premium Economy,0,93
+F00117,MMT100244,Indigo,Economy,0,89
+F00118,MMT100249,Air India Express,Business,0,221
+F00120,MMT100254,Akasa Air Express,Economy,1,127
+F00121,MMT100256,Air India Express,Business,2,145
+F00122,MMT100257,Indigo,Business,0,106
+F00123,MMT100258,Air India Express,Economy,0,145
+F00124,MMT100259,Air India Express,Economy,0,206
+F00125,MMT100264,Akasa Air Express,Premium Economy,1,84
+F00126,MMT100268,Air India Express,Premium Economy,0,204
+F00127,MMT100270,Spice Jet,Economy,0,131
+F00128,MMT100271,Indigo,Economy,0,158
+F00129,MMT100272,Air India Express,Economy,1,213
+F00130,MMT100276,Spice Jet,Premium Economy,1,198
+F00131,MMT100278,Air India Express,Economy,0,73
+F00132,MMT100282,Akasa Air Express,Premium Economy,1,240
+F00133,MMT100284,Spice Jet,Economy,0,144
+F00134,MMT100288,Indigo,Economy,0,135
+F00135,MMT100289,Air India Express,Economy,0,107
+F00136,MMT100290,Air India Express,Business,0,213
+F00137,MMT100291,Spice Jet,Economy,0,202
+F00138,MMT100294,Air India Express,Economy,2,107
+F00139,MMT100298,Air India Express,Premium Economy,0,152
+F00140,MMT100299,Spice Jet,Economy,0,96
+F00141,MMT100302,Indigo,Business,0,182
+F00142,MMT100303,Indigo,Economy,0,217
+F00143,MMT100304,Akasa Air Express,Economy,0,63
+F00144,MMT100305,Air India Express,Premium Economy,1,207
+F00145,MMT100308,Akasa Air Express,Economy,0,83
+F00146,MMT100310,Air India Express,Economy,0,0
+F00147,MMT100313,Akasa Air Express,Premium Economy,1,94
+F00148,MMT100314,Air India Express,Premium Economy,1,142
+F00149,MMT100316,Air India Express,Business,0,237
+F00150,MMT100318,Air India Express,Premium Economy,2,164
+F00151,MMT100319,Air India Express,Economy,1,156
+F00152,MMT100321,Air India Express,Economy,1,68
+F00153,MMT100323,Spice Jet,Economy,0,108
+F00154,MMT100324,Spice Jet,Business,0,176
+F00155,MMT100325,Akasa Air Express,Premium Economy,0,136
+F00156,MMT100326,Air India Express,Economy,0,203
+F00157,MMT100327,Air India Express,Premium Economy,0,221
+F00158,MMT100330,Indigo,Economy,0,80
+F00159,MMT100332,Air India Express,Business,1,120
+F00160,MMT100333,Spice Jet,Business,1,222
+F00161,MMT100337,Air India Express,Premium Economy,0,114
+F00162,MMT100338,Air India Express,Business,0,94
+F00163,MMT100339,Spice Jet,Economy,0,208
+F00164,MMT100341,Spice Jet,Economy,1,235
+F00165,MMT100342,Air India Express,Premium Economy,0,62
+F00166,MMT100347,Air India Express,Economy,0,60
+F00167,MMT100348,Akasa Air Express,Economy,1,205
+F00168,MMT100350,Akasa Air Express,Economy,0,189
+F00169,MMT100352,Air India Express,Economy,1,112
+F00170,MMT100359,Spice Jet,Economy,0,236
+F00171,MMT100360,Air India Express,Business,0,187
+F00172,MMT100363,Air India Express,Premium Economy,0,179
+F00173,MMT100366,Air India Express,Economy,0,115
+F00174,MMT100369,Akasa Air Express,Economy,0,104
+F00175,MMT100371,Air India Express,Premium Economy,1,63
+F00176,MMT100372,Air India Express,Economy,0,204
+F00177,MMT100374,Indigo,Premium Economy,0,226
+F00178,MMT100375,Air India Express,Economy,1,134
+F00179,MMT100376,Spice Jet,Economy,2,0
+F00180,MMT100377,Akasa Air Express,Economy,1,134
+F00181,MMT100379,Spice Jet,Premium Economy,0,121
+F00182,MMT100380,Akasa Air Express,Economy,1,114
+F00183,MMT100381,Akasa Air Express,Business,1,223
+F00184,MMT100384,Spice Jet,Economy,0,195
+F00185,MMT100385,Indigo,Economy,0,113
+F00186,MMT100389,Indigo,Economy,0,136
+F00187,MMT100390,Air India Express,Economy,0,160
+F00188,MMT100393,Air India Express,Economy,0,180
+F00189,MMT100397,Akasa Air Express,Economy,0,142
+F00190,MMT100403,Air India Express,Economy,0,161
+F00191,MMT100404,Air India Express,Economy,0,198
+F00192,MMT100413,Spice Jet,Economy,0,147
+F00193,MMT100415,Air India Express,Premium Economy,0,217
+F00194,MMT100416,Indigo,Economy,0,112
+F00195,MMT100417,Air India Express,Premium Economy,0,111
+F00196,MMT100418,Indigo,Economy,0,97
+F00197,MMT100419,Indigo,Economy,0,86
+F00198,MMT100420,Indigo,Economy,0,90
+F00199,MMT100421,Akasa Air Express,Economy,1,205
+F00200,MMT100422,Spice Jet,Premium Economy,2,93
+F00201,MMT100424,Akasa Air Express,Economy,2,80
+F00202,MMT100425,Air India Express,Premium Economy,0,192
+F00203,MMT100426,Air India Express,Economy,0,79
+F00204,MMT100429,Air India Express,Business,0,109
+F00205,MMT100431,Indigo,Economy,1,0
+F00206,MMT100433,Air India Express,Economy,2,199
+F00207,MMT100439,Indigo,Economy,1,80
+F00208,MMT100440,Air India Express,Premium Economy,0,173
+F00209,MMT100441,Air India Express,Business,0,228
+F00210,MMT100442,Air India Express,Economy,1,116
+F00211,MMT100443,Spice Jet,Business,0,190
+F00212,MMT100453,Indigo,Business,0,189
+F00213,MMT100458,Akasa Air Express,Premium Economy,0,128
+F00214,MMT100461,Air India Express,Premium Economy,0,61
+F00215,MMT100463,Air India Express,Economy,0,151
+F00216,MMT100467,Air India Express,Business,0,151
+F00217,MMT100468,Akasa Air Express,Economy,0,235
+F00218,MMT100469,Air India Express,Business,0,116
+F00219,MMT100470,Akasa Air Express,Premium Economy,1,190
+F00220,MMT100472,Air India Express,Business,0,175
+F00221,MMT100474,Akasa Air Express,Economy,1,108
+F00222,MMT100476,Akasa Air Express,Economy,0,118
+F00223,MMT100481,Spice Jet,Premium Economy,0,163
+F00224,MMT100482,Akasa Air Express,Economy,0,170
+F00225,MMT100483,Akasa Air Express,Economy,0,175
+F00226,MMT100484,Spice Jet,Business,0,
+F00227,MMT100485,Akasa Air Express,Economy,0,133
+F00228,MMT100486,Indigo,Premium Economy,0,64
+F00229,MMT100487,Air India Express,Premium Economy,0,162
+F00230,MMT100488,Air India Express,Business,0,128
+F00231,MMT100489,Spice Jet,Economy,0,189
+F00232,MMT100491,Air India Express,Economy,2,233
+F00233,MMT100493,Spice Jet,Premium Economy,0,157
+F00234,MMT100495,Indigo,Economy,1,159
+F00235,MMT100496,Spice Jet,Economy,2,176
+F00236,MMT100499,Air India Express,Business,0,200
+F00237,MMT100501,Air India Express,Premium Economy,0,240
+F00238,MMT100508,Air India Express,Economy,1,194
+F00239,MMT100509,Akasa Air Express,Economy,1,198
+F00240,MMT100510,Indigo,Economy,2,191
+F00241,MMT100511,Akasa Air Express,Economy,0,141
+F00242,MMT100512,Spice Jet,Premium Economy,0,207
+F00243,MMT100513,Akasa Air Express,Premium Economy,0,134
+F00244,MMT100514,Spice Jet,Economy,2,172
+F00245,MMT100517,Air India Express,Economy,1,129
+F00246,MMT100520,Air India Express,Economy,1,119
+F00247,MMT100521,Air India Express,Business,0,199
+F00248,MMT100523,Indigo,Economy,0,138
+F00249,MMT100525,Air India Express,Economy,0,214
+F00250,MMT100526,Air India Express,Economy,0,68
+F00251,MMT100527,Spice Jet,Premium Economy,0,220
+F00252,MMT100528,Air India Express,Premium Economy,0,142
+F00253,MMT100531,Akasa Air Express,Business,1,107
+F00254,MMT100532,Akasa Air Express,Business,0,198
+F00255,MMT100533,Air India Express,Business,0,209
+F00257,MMT100536,Air India Express,Economy,0,201
+F00258,MMT100539,Indigo,Economy,0,89
+F00259,MMT100540,Akasa Air Express,Economy,1,166
+F00260,MMT100542,Air India Express,Economy,0,75
+F00261,MMT100545,Air India Express,Economy,0,114
+F00262,MMT100547,Air India Express,Economy,1,179
+F00263,MMT100550,Akasa Air Express,Business,1,111
+F00264,MMT100551,Air India Express,Economy,0,236
+F00265,MMT100552,Air India Express,Economy,0,75
+F00266,MMT100554,Air India Express,Premium Economy,1,155
+F00267,MMT100556,Akasa Air Express,Economy,0,222
+F00268,MMT100558,Indigo,Economy,1,117
+F00269,MMT100560,Air India Express,Economy,0,104
+F00270,MMT100562,Indigo,Economy,1,166
+F00271,MMT100563,Air India Express,Economy,0,168
+F00272,MMT100564,Akasa Air Express,Business,0,204
+F00273,MMT100568,Akasa Air Express,Economy,0,91
+F00274,MMT100569,Spice Jet,Economy,0,181
+F00275,MMT100570,Air India Express,Economy,0,239
+F00276,MMT100571,Akasa Air Express,Economy,0,149
+F00277,MMT100572,Akasa Air Express,Economy,1,66
+F00278,MMT100573,Indigo,Economy,0,92
+F00279,MMT100575,Indigo,Economy,0,160
+F00280,MMT100579,Air India Express,Economy,0,175
+F00281,MMT100581,Air India Express,Business,1,131
+F00282,MMT100582,Air India Express,Economy,0,134
+F00283,MMT100584,Indigo,Economy,0,98
+F00284,MMT100585,Spice Jet,Business,0,68
+F00285,MMT100587,Spice Jet,Premium Economy,1,192
+F00286,MMT100588,Spice Jet,Economy,0,169
+F00287,MMT100589,Indigo,Economy,0,230
+F00288,MMT100591,Air India Express,Economy,0,184
+F00289,MMT100594,Spice Jet,Premium Economy,0,202
+F00290,MMT100598,Indigo,Economy,0,233
+F00291,MMT100599,Akasa Air Express,Economy,0,90
+F00292,MMT100602,Akasa Air Express,Economy,0,187
+F00293,MMT100605,Air India Express,Economy,0,234
+F00294,MMT100608,Indigo,Economy,1,167
+F00295,MMT100610,Akasa Air Express,Economy,1,92
+F00296,MMT100613,Spice Jet,Economy,1,105
+F00297,MMT100614,Air India Express,Premium Economy,1,181
+F00298,MMT100615,Indigo,Premium Economy,0,109
+F00299,MMT100617,Spice Jet,Economy,2,139
+F00300,MMT100619,Akasa Air Express,Business,1,222
+F00301,MMT100620,Indigo,Economy,0,98
+F00302,MMT100621,Spice Jet,Economy,0,227
+F00303,MMT100622,Indigo,Business,0,160
+F00304,MMT100624,Air India Express,Economy,0,92
+F00305,MMT100626,Air India Express,Economy,0,75
+F00306,MMT100629,Air India Express,Business,1,106
+F00307,MMT100632,Spice Jet,Business,0,200
+F00308,MMT100633,Air India Express,Economy,0,79
+F00309,MMT100634,Indigo,Economy,1,170
+F00310,MMT100636,Indigo,Economy,2,109
+F00311,MMT100638,Air India Express,Economy,1,80
+F00312,MMT100639,Air India Express,Economy,0,113
+F00313,MMT100642,Indigo,Business,2,64
+F00314,MMT100643,Air India Express,Business,0,100
+F00315,MMT100644,Spice Jet,Business,0,71
+F00316,MMT100646,Spice Jet,Economy,0,146
+F00317,MMT100648,Air India Express,Economy,0,0
+F00318,MMT100650,Spice Jet,Business,1,139
+F00319,MMT100651,Indigo,Economy,0,163
+F00320,MMT100652,Air India Express,Economy,0,169
+F00321,MMT100654,Akasa Air Express,Economy,0,136
+F00322,MMT100656,Spice Jet,Economy,1,96
+F00323,MMT100658,Spice Jet,Economy,0,132
+F00324,MMT100662,Akasa Air Express,Premium Economy,1,62
+F00325,MMT100664,Indigo,Economy,0,202
+F00326,MMT100669,Spice Jet,Business,0,235
+F00327,MMT100674,Air India Express,Premium Economy,0,213
+F00328,MMT100675,Spice Jet,Economy,0,116
+F00329,MMT100678,Indigo,Business,0,204
+F00330,MMT100680,Air India Express,Economy,1,188
+F00331,MMT100681,Akasa Air Express,Economy,0,188
+F00332,MMT100682,Air India Express,Economy,0,159
+F00333,MMT100692,Spice Jet,Economy,0,169
+F00334,MMT100693,Indigo,Business,0,122
+F00335,MMT100694,Akasa Air Express,Economy,0,222
+F00336,MMT100695,Indigo,Business,0,175
+F00337,MMT100697,Spice Jet,Economy,0,63
+F00338,MMT100699,Spice Jet,Economy,0,144
+F00339,MMT100700,Akasa Air Express,Premium Economy,0,138
+F00340,MMT100701,Indigo,Business,0,166
+F00341,MMT100702,Spice Jet,Economy,2,151
+F00342,MMT100703,Air India Express,Business,1,236
+F00343,MMT100707,Spice Jet,Business,0,184
+F00344,MMT100708,Air India Express,Economy,1,131
+F00345,MMT100710,Air India Express,Economy,0,177
+F00346,MMT100711,Akasa Air Express,Economy,0,239
+F00347,MMT100714,Air India Express,Economy,0,132
+F00348,MMT100718,Indigo,Economy,0,209
+F00349,MMT100720,Indigo,Economy,1,198
+F00350,MMT100721,Akasa Air Express,Premium Economy,0,147
+F00351,MMT100722,Air India Express,Economy,1,159
+F00352,MMT100726,Air India Express,Economy,1,108
+F00353,MMT100729,Air India Express,Business,0,105
+F00354,MMT100730,Indigo,Economy,0,140
+F00355,MMT100733,Air India Express,Economy,0,165
+F00356,MMT100734,Air India Express,Premium Economy,1,79
+F00357,MMT100742,Akasa Air Express,Economy,0,114
+F00358,MMT100744,Spice Jet,Business,0,206
+F00359,MMT100746,Air India Express,Economy,1,143
+F00360,MMT100747,Air India Express,Business,0,68
+F00361,MMT100748,Air India Express,Business,0,96
+F00362,MMT100749,Air India Express,Business,0,86
+F00363,MMT100752,Spice Jet,Premium Economy,1,135
+F00364,MMT100753,Air India Express,Economy,0,155
+F00365,MMT100754,Spice Jet,Business,0,135
+F00366,MMT100757,Air India Express,Economy,0,67
+F00367,MMT100758,Air India Express,Premium Economy,0,110
+F00368,MMT100761,Spice Jet,Economy,0,95
+F00369,MMT100763,Indigo,Economy,0,118
+F00370,MMT100764,Akasa Air Express,Economy,0,219
+F00371,MMT100765,Air India Express,Economy,0,211
+F00372,MMT100767,Air India Express,Economy,1,154
+F00373,MMT100768,Akasa Air Express,Business,0,64
+F00374,MMT100770,Akasa Air Express,Economy,0,153
+F00375,MMT100771,Indigo,Premium Economy,0,214
+F00376,MMT100772,Air India Express,Economy,0,130
+F00377,MMT100773,Spice Jet,Business,0,87
+F00378,MMT100775,Indigo,Business,0,
+F00379,MMT100777,Air India Express,Premium Economy,0,167
+F00380,MMT100780,Indigo,Economy,0,125
+F00381,MMT100785,Air India Express,Business,1,87
+F00382,MMT100788,Air India Express,Economy,0,84
+F00383,MMT100792,Spice Jet,Premium Economy,0,156
+F00384,MMT100793,Air India Express,Premium Economy,1,0
+F00385,MMT100794,Air India Express,Economy,2,129
+F00386,MMT100795,Air India Express,Economy,0,67
+F00387,MMT100796,Air India Express,Economy,0,85
+F00388,MMT100797,Air India Express,Premium Economy,1,152
+F00389,MMT100798,Spice Jet,Premium Economy,1,191
+F00390,MMT100800,Air India Express,Business,0,205
+F00391,MMT100801,Akasa Air Express,Economy,0,179
+F00392,MMT100803,Spice Jet,Economy,2,76
+F00393,MMT100806,Air India Express,Economy,1,166
+F00394,MMT100808,Air India Express,Economy,1,99
+F00395,MMT100810,Akasa Air Express,Business,0,147
+F00396,MMT100811,Air India Express,Business,1,74
+F00397,MMT100814,Akasa Air Express,Business,0,88
+F00399,MMT100822,Akasa Air Express,Premium Economy,0,153
+F00400,MMT100828,Spice Jet,Business,1,
+F00401,MMT100832,Air India Express,Economy,1,114
+F00402,MMT100833,Spice Jet,Business,2,198
+F00403,MMT100834,Air India Express,Premium Economy,0,110
+F00404,MMT100839,Air India Express,Economy,0,221
+F00405,MMT100840,Spice Jet,Premium Economy,0,99
+F00406,MMT100841,Akasa Air Express,Economy,0,113
+F00407,MMT100844,Air India Express,Business,0,240
+F00408,MMT100846,Spice Jet,Economy,0,154
+F00409,MMT100847,Air India Express,Business,0,176
+F00410,MMT100848,Air India Express,Economy,1,116
+F00411,MMT100850,Air India Express,Economy,0,71
+F00412,MMT100851,Air India Express,Premium Economy,0,130
+F00413,MMT100852,Air India Express,Business,0,62
+F00414,MMT100853,Air India Express,Business,1,148
+F00415,MMT100856,Indigo,Economy,1,75
+F00416,MMT100857,Indigo,Economy,1,236
+F00417,MMT100858,Spice Jet,Economy,0,135
+F00418,MMT100859,Spice Jet,Economy,0,162
+F00419,MMT100862,Air India Express,Economy,0,114
+F00420,MMT100863,Akasa Air Express,Economy,0,195
+F00421,MMT100867,Spice Jet,Business,0,95
+F00422,MMT100871,Air India Express,Economy,1,66
+F00423,MMT100876,Spice Jet,Premium Economy,0,195
+F00424,MMT100877,Air India Express,Premium Economy,0,161
+F00425,MMT100879,Air India Express,Economy,0,184
+F00426,MMT100880,Air India Express,Economy,0,110
+F00427,MMT100881,Air India Express,Business,0,83
+F00428,MMT100883,Akasa Air Express,Premium Economy,0,218
+F00429,MMT100885,Air India Express,Premium Economy,0,92
+F00430,MMT100887,Air India Express,Economy,0,216
+F00431,MMT100888,Spice Jet,Economy,0,204
+F00432,MMT100893,Air India Express,Business,0,0
+F00433,MMT100894,Spice Jet,Economy,0,135
+F00434,MMT100898,Spice Jet,Business,0,151
+F00435,MMT100900,Indigo,Economy,0,140
+F00436,MMT100901,Indigo,Economy,1,234
+F00437,MMT100902,Spice Jet,Business,0,93
+F00438,MMT100903,Spice Jet,Business,0,218
+F00439,MMT100906,Indigo,Economy,0,88
+F00440,MMT100909,Indigo,Economy,0,210
+F00441,MMT100910,Spice Jet,Economy,0,183
+F00442,MMT100914,Indigo,Business,0,184
+F00443,MMT100915,Air India Express,Business,2,184
+F00444,MMT100916,Spice Jet,Economy,0,82
+F00445,MMT100918,Air India Express,Premium Economy,1,187
+F00446,MMT100920,Air India Express,Premium Economy,2,84
+F00447,MMT100921,Spice Jet,Business,0,146
+F00448,MMT100922,Air India Express,Economy,0,134
+F00449,MMT100926,Spice Jet,Economy,0,177
+F00450,MMT100931,Spice Jet,Economy,0,63
+F00451,MMT100934,Akasa Air Express,Premium Economy,0,188
+F00452,MMT100935,Air India Express,Economy,0,106
+F00453,MMT100937,Air India Express,Economy,0,179
+F00454,MMT100938,Indigo,Economy,1,73
+F00455,MMT100939,Air India Express,Economy,0,113
+F00456,MMT100941,Akasa Air Express,Business,0,118
+F00457,MMT100944,Indigo,Economy,1,79
+F00458,MMT100945,Spice Jet,Economy,2,63
+F00459,MMT100946,Air India Express,Economy,0,171
+F00460,MMT100947,Spice Jet,Premium Economy,0,175
+F00461,MMT100949,Spice Jet,Business,1,63
+F00462,MMT100951,Indigo,Economy,2,211
+F00463,MMT100952,Spice Jet,Economy,0,135
+F00464,MMT100953,Akasa Air Express,Economy,0,104
+F00465,MMT100955,Indigo,Premium Economy,1,223
+F00466,MMT100956,Akasa Air Express,Business,1,127
+F00467,MMT100960,Air India Express,Economy,0,75
+F00468,MMT100961,Spice Jet,Premium Economy,1,219
+F00469,MMT100963,Air India Express,Economy,1,97
+F00470,MMT100964,Air India Express,Economy,0,147
+F00471,MMT100965,Spice Jet,Economy,0,237
+F00472,MMT100968,Air India Express,Economy,0,83
+F00473,MMT100970,Air India Express,Economy,0,218
+F00474,MMT100971,Air India Express,Economy,0,169
+F00475,MMT100972,Akasa Air Express,Premium Economy,0,131
+F00476,MMT100973,Spice Jet,Economy,0,99
+F00477,MMT100974,Akasa Air Express,Economy,1,112
+F00478,MMT100978,Indigo,Economy,0,68
+F00479,MMT100979,Indigo,Economy,0,226
+F00480,MMT100980,Akasa Air Express,Economy,0,91
+F00481,MMT100981,Air India Express,Economy,1,220
+F00482,MMT100982,Air India Express,Economy,1,191
+F00483,MMT100988,Spice Jet,Economy,1,116
+F00484,MMT100989,Spice Jet,Business,0,136
+F00485,MMT100990,Air India Express,Economy,0,172
+F00486,MMT100992,Air India Express,Business,0,181
+F00487,MMT100997,Akasa Air Express,Premium Economy,0,175
+F00488,MMT100998,Indigo,Premium Economy,1,181
+F00489,MMT100999,Akasa Air Express,Premium Economy,0,216
+F00491,MMT101002,Air India Express,Economy,0,216
+F00492,MMT101003,Air India Express,Premium Economy,0,232
+F00493,MMT101004,Air India Express,Economy,0,208
+F00494,MMT101006,Air India Express,Business,0,238
+F00495,MMT101007,Akasa Air Express,Economy,1,115
+F00496,MMT101009,Akasa Air Express,Economy,0,108
+F00497,MMT101014,Akasa Air Express,Premium Economy,0,201
+F00498,MMT101016,Air India Express,Economy,0,107
+F00499,MMT101017,Air India Express,Economy,0,185
+F00500,MMT101018,Air India Express,Economy,1,125
+F00501,MMT101020,Air India Express,Business,0,118
+F00502,MMT101021,Air India Express,Economy,0,117
+F00503,MMT101022,Akasa Air Express,Premium Economy,1,186
+F00504,MMT101023,Air India Express,Economy,0,214
+F00505,MMT101024,Indigo,Economy,0,121
+F00506,MMT101025,Air India Express,Business,0,228
+F00507,MMT101028,Akasa Air Express,Business,1,168
+F00508,MMT101029,Air India Express,Premium Economy,0,114
+F00509,MMT101030,Indigo,Economy,0,201
+F00510,MMT101033,Air India Express,Premium Economy,0,172
+F00512,MMT101036,Air India Express,Economy,0,60
+F00513,MMT101039,Indigo,Economy,0,98
+F00514,MMT101043,Akasa Air Express,Economy,1,104
+F00515,MMT101046,Indigo,Economy,0,206
+F00516,MMT101047,Akasa Air Express,Economy,0,196
+F00517,MMT101051,Indigo,Economy,0,167
+F00518,MMT101052,Air India Express,Economy,0,146
+F00519,MMT101054,Akasa Air Express,Economy,0,184
+F00520,MMT101059,Air India Express,Economy,0,210
+F00521,MMT101060,Spice Jet,Economy,0,134
+F00522,MMT101061,Akasa Air Express,Premium Economy,0,101
+F00523,MMT101062,Indigo,Business,1,167
+F00524,MMT101063,Indigo,Economy,0,66
+F00525,MMT101064,Air India Express,Economy,0,237
+F00526,MMT101065,Air India Express,Economy,0,230
+F00527,MMT101066,Akasa Air Express,Economy,2,93
+F00528,MMT101069,Spice Jet,Premium Economy,1,85
+F00529,MMT101070,Indigo,Economy,0,107
+F00530,MMT101077,Air India Express,Business,0,179
+F00531,MMT101078,Air India Express,Economy,1,115
+F00532,MMT101082,Air India Express,Economy,0,149
+F00533,MMT101085,Akasa Air Express,Economy,0,187
+F00534,MMT101086,Akasa Air Express,Premium Economy,0,170
+F00535,MMT101087,Akasa Air Express,Economy,1,228
+F00536,MMT101088,Air India Express,Economy,1,134
+F00537,MMT101089,Air India Express,Economy,0,142
+F00538,MMT101090,Air India Express,Economy,0,154
+F00539,MMT101091,Air India Express,Economy,0,219
+F00540,MMT101092,Air India Express,Economy,1,174
+F00541,MMT101093,Air India Express,Premium Economy,1,185
+F00542,MMT101095,Air India Express,Business,0,67
+F00543,MMT101097,Air India Express,Business,2,224
+F00544,MMT101099,Akasa Air Express,Economy,1,97
+F00545,MMT101100,Indigo,Economy,1,105
+F00546,MMT101105,Air India Express,Economy,0,119
+F00547,MMT101106,Akasa Air Express,Premium Economy,0,131
+F00548,MMT101109,Akasa Air Express,Economy,1,200
+F00549,MMT101110,Air India Express,Economy,1,134
+F00550,MMT101111,Air India Express,Economy,0,128
+F00551,MMT101112,Air India Express,Business,0,235
+F00552,MMT101113,Spice Jet,Economy,0,237
+F00553,MMT101114,Akasa Air Express,Economy,1,187
+F00554,MMT101117,Air India Express,Economy,1,75
+F00555,MMT101118,Air India Express,Economy,0,125
+F00556,MMT101121,Akasa Air Express,Economy,0,187
+F00557,MMT101122,Indigo,Economy,0,208
+F00558,MMT101125,Spice Jet,Economy,0,129
+F00559,MMT101127,Akasa Air Express,Business,1,136
+F00560,MMT101129,Akasa Air Express,Premium Economy,0,110
+F00561,MMT101131,Indigo,Business,1,210
+F00562,MMT101132,Indigo,Business,0,216
+F00563,MMT101136,Spice Jet,Premium Economy,0,100
+F00564,MMT101139,Air India Express,Business,0,201
+F00565,MMT101140,Air India Express,Economy,0,92
+F00566,MMT101141,Spice Jet,Economy,0,211
+F00567,MMT101142,Indigo,Economy,1,145
+F00568,MMT101145,Akasa Air Express,Economy,1,145
+F00569,MMT101148,Akasa Air Express,Business,0,161
+F00570,MMT101150,Air India Express,Economy,1,219
+F00571,MMT101153,Spice Jet,Economy,0,149
+F00572,MMT101154,Akasa Air Express,Economy,0,140
+F00573,MMT101156,Akasa Air Express,Premium Economy,0,223
+F00574,MMT101158,Akasa Air Express,Economy,0,71
+F00575,MMT101159,Spice Jet,Economy,0,217
+F00576,MMT101160,Akasa Air Express,Economy,0,143
+F00577,MMT101162,Indigo,Economy,0,164
+F00578,MMT101164,Air India Express,Economy,0,106
+F00579,MMT101165,Akasa Air Express,Premium Economy,1,136
+F00580,MMT101168,Spice Jet,Premium Economy,0,162
+F00581,MMT101170,Air India Express,Economy,0,189
+F00582,MMT101174,Indigo,Business,0,146
+F00583,MMT101175,Air India Express,Economy,0,151
+F00584,MMT101176,Air India Express,Business,0,86
+F00585,MMT101177,Spice Jet,Economy,0,215
+F00586,MMT101179,Air India Express,Economy,1,122
+F00587,MMT101180,Indigo,Economy,1,126
+F00588,MMT101184,Spice Jet,Business,1,158
+F00589,MMT101185,Indigo,Economy,0,172
+F00590,MMT101187,Akasa Air Express,Premium Economy,0,149
+F00591,MMT101189,Spice Jet,Economy,2,91
+F00592,MMT101190,Air India Express,Business,1,210
+F00593,MMT101191,Air India Express,Economy,0,186
+F00594,MMT101193,Air India Express,Business,2,169
+F00595,MMT101194,Air India Express,Economy,0,159
+F00596,MMT101198,Indigo,Economy,2,67
+F00597,MMT101199,Indigo,Economy,2,70
+F00598,MMT101202,Spice Jet,Business,0,204
+F00599,MMT101206,Akasa Air Express,Economy,0,184
+F00600,MMT101208,Air India Express,Economy,0,88
+F00601,MMT101209,Air India Express,Economy,0,220
+F00602,MMT101213,Indigo,Economy,0,99
+F00603,MMT101217,Air India Express,Premium Economy,0,200
+F00604,MMT101218,Air India Express,Economy,0,118
+F00605,MMT101220,Spice Jet,Premium Economy,0,70
+F00606,MMT101224,Spice Jet,Economy,0,225
+F00607,MMT101225,Indigo,Economy,0,217
+F00608,MMT101226,Air India Express,Business,0,240
+F00609,MMT101228,Air India Express,Economy,1,111
+F00610,MMT101229,Akasa Air Express,Economy,0,149
+F00611,MMT101230,Air India Express,Premium Economy,0,147
+F00612,MMT101231,Akasa Air Express,Economy,0,159
+F00613,MMT101232,Akasa Air Express,Economy,0,85
+F00614,MMT101233,Air India Express,Economy,1,116
+F00615,MMT101234,Air India Express,Premium Economy,0,188
+F00616,MMT101235,Spice Jet,Economy,0,228
+F00617,MMT101236,Akasa Air Express,Economy,1,225
+F00618,MMT101237,Akasa Air Express,Economy,1,238
+F00619,MMT101239,Air India Express,Economy,0,221
+F00620,MMT101240,Air India Express,Economy,1,216
+F00621,MMT101242,Akasa Air Express,Economy,0,216
+F00622,MMT101245,Air India Express,Economy,0,157
+F00623,MMT101246,Spice Jet,Economy,0,199
+F00624,MMT101247,Air India Express,Economy,0,
+F00625,MMT101248,Akasa Air Express,Economy,0,71
+F00626,MMT101250,Air India Express,Business,0,182
+F00627,MMT101252,Akasa Air Express,Economy,0,172
+F00628,MMT101253,Akasa Air Express,Economy,2,152
+F00629,MMT101254,Akasa Air Express,Business,0,80
+F00630,MMT101256,Akasa Air Express,Economy,1,163
+F00631,MMT101257,Akasa Air Express,Business,0,
+F00632,MMT101258,Air India Express,Premium Economy,0,161
+F00633,MMT101263,Spice Jet,Premium Economy,1,216
+F00634,MMT101264,Akasa Air Express,Premium Economy,0,
+F00635,MMT101265,Akasa Air Express,Business,0,176
+F00636,MMT101266,Indigo,Economy,0,215
+F00637,MMT101269,Indigo,Economy,0,187
+F00638,MMT101271,Air India Express,Economy,0,82
+F00639,MMT101272,Air India Express,Economy,0,85
+F00640,MMT101280,Air India Express,Premium Economy,1,165
+F00641,MMT101281,Akasa Air Express,Business,1,171
+F00642,MMT101284,Spice Jet,Economy,0,193
+F00643,MMT101285,Air India Express,Economy,0,107
+F00644,MMT101288,Air India Express,Economy,1,102
+F00645,MMT101290,Air India Express,Economy,0,66
+F00646,MMT101291,Air India Express,Economy,0,207
+F00647,MMT101292,Spice Jet,Premium Economy,0,171
+F00648,MMT101293,Indigo,Premium Economy,0,180
+F00649,MMT101294,Spice Jet,Economy,1,203
+F00650,MMT101295,Air India Express,Premium Economy,0,176
+F00651,MMT101297,Indigo,Business,0,201
+F00652,MMT101298,Air India Express,Business,2,216
+F00653,MMT101299,Indigo,Economy,1,80
+F00654,MMT101300,Indigo,Economy,1,112
+F00655,MMT101302,Akasa Air Express,Economy,0,127
+F00656,MMT101303,Air India Express,Business,1,201
+F00657,MMT101304,Air India Express,Economy,0,240
+F00658,MMT101305,Air India Express,Business,0,168
+F00659,MMT101307,Akasa Air Express,Economy,0,159
+F00660,MMT101308,Air India Express,Premium Economy,0,230
+F00661,MMT101309,Spice Jet,Business,0,191
+F00662,MMT101311,Spice Jet,Premium Economy,0,153
+F00663,MMT101313,Air India Express,Business,0,104
+F00664,MMT101316,Akasa Air Express,Business,1,93
+F00665,MMT101317,Air India Express,Economy,0,185
+F00666,MMT101318,Air India Express,Business,0,108
+F00667,MMT101319,Air India Express,Business,0,119
+F00668,MMT101320,Spice Jet,Economy,0,236
+F00669,MMT101322,Indigo,Economy,0,86
+F00670,MMT101325,Spice Jet,Premium Economy,0,165
+F00671,MMT101326,Akasa Air Express,Economy,0,109
+F00672,MMT101327,Air India Express,Economy,0,199
+F00673,MMT101328,Air India Express,Economy,0,
+F00674,MMT101333,Air India Express,Economy,2,191
+F00676,MMT101336,Indigo,Economy,0,227
+F00677,MMT101337,Spice Jet,Premium Economy,0,223
+F00678,MMT101338,Spice Jet,Business,0,165
+F00679,MMT101339,Indigo,Economy,0,132
+F00680,MMT101341,Spice Jet,Premium Economy,0,103
+F00681,MMT101342,Air India Express,Economy,0,157
+F00682,MMT101343,Air India Express,Economy,0,213
+F00683,MMT101344,Spice Jet,Economy,1,80
+F00684,MMT101348,Air India Express,Business,0,146
+F00685,MMT101350,Air India Express,Economy,0,239
+F00686,MMT101353,Akasa Air Express,Premium Economy,1,80
+F00687,MMT101354,Air India Express,Business,0,175
+F00688,MMT101357,Akasa Air Express,Economy,0,105
+F00689,MMT101358,Air India Express,Economy,0,165
+F00690,MMT101359,Spice Jet,Economy,0,96
+F00691,MMT101360,Spice Jet,Economy,1,165
+F00692,MMT101365,Air India Express,Business,1,140
+F00693,MMT101367,Indigo,Economy,0,109
+F00694,MMT101368,Air India Express,Economy,0,170
+F00695,MMT101371,Spice Jet,Business,0,177
+F00696,MMT101373,Spice Jet,Business,0,
+F00697,MMT101376,Spice Jet,Economy,0,177
+F00698,MMT101379,Air India Express,Economy,0,102
+F00699,MMT101381,Spice Jet,Economy,0,96
+F00700,MMT101382,Spice Jet,Economy,2,110
+F00701,MMT101385,Akasa Air Express,Business,0,158
+F00702,MMT101386,Spice Jet,Economy,0,66
+F00703,MMT101388,Indigo,Economy,0,81
+F00704,MMT101390,Air India Express,Economy,0,81
+F00705,MMT101392,Air India Express,Business,0,116
+F00706,MMT101393,Air India Express,Premium Economy,0,179
+F00707,MMT101395,Akasa Air Express,Economy,0,188
+F00708,MMT101397,Air India Express,Economy,1,232
+F00709,MMT101398,Air India Express,Premium Economy,0,89
+F00710,MMT101400,Spice Jet,Economy,0,89
+F00711,MMT101402,Indigo,Economy,1,134
+F00712,MMT101404,Air India Express,Economy,0,150
+F00713,MMT101405,Air India Express,Economy,0,217
+F00714,MMT101408,Air India Express,Economy,2,155
+F00715,MMT101409,Indigo,Economy,0,229
+F00716,MMT101410,Spice Jet,Economy,0,135
+F00717,MMT101413,Air India Express,Premium Economy,0,170
+F00718,MMT101415,Spice Jet,Economy,0,228
+F00719,MMT101417,Air India Express,Business,0,231
+F00720,MMT101418,Air India Express,Business,0,155
+F00722,MMT101421,Indigo,Economy,1,63
+F00723,MMT101422,Akasa Air Express,Economy,0,92
+F00724,MMT101425,Air India Express,Economy,0,197
+F00725,MMT101429,Air India Express,Economy,0,190
+F00726,MMT101433,Indigo,Economy,1,121
+F00727,MMT101437,Indigo,Economy,0,111
+F00728,MMT101438,Indigo,Business,1,232
+F00729,MMT101439,Air India Express,Economy,0,66
+F00730,MMT101440,Air India Express,Economy,0,237
+F00731,MMT101442,Indigo,Economy,0,173
+F00732,MMT101443,Akasa Air Express,Business,0,170
+F00733,MMT101444,Air India Express,Economy,1,197
+F00734,MMT101445,Air India Express,Economy,0,238
+F00735,MMT101446,Air India Express,Economy,1,83
+F00736,MMT101447,Indigo,Economy,1,238
+F00737,MMT101448,Spice Jet,Premium Economy,0,177
+F00738,MMT101449,Akasa Air Express,Premium Economy,0,110
+F00739,MMT101454,Indigo,Business,0,222
+F00740,MMT101458,Indigo,Business,0,126
+F00741,MMT101459,Air India Express,Economy,0,192
+F00742,MMT101462,Air India Express,Premium Economy,0,149
+F00743,MMT101466,Spice Jet,Economy,1,65
+F00744,MMT101468,Akasa Air Express,Economy,0,169
+F00745,MMT101470,Air India Express,Economy,1,83
+F00746,MMT101471,Air India Express,Economy,1,173
+F00747,MMT101472,Akasa Air Express,Business,0,65
+F00748,MMT101474,Spice Jet,Business,1,67
+F00749,MMT101475,Spice Jet,Economy,0,156
+F00750,MMT101476,Air India Express,Economy,0,216
+F00751,MMT101478,Indigo,Economy,0,68
+F00752,MMT101483,Indigo,Economy,0,61
+F00753,MMT101484,Air India Express,Premium Economy,0,120
+F00754,MMT101485,Air India Express,Premium Economy,0,62
+F00755,MMT101489,Spice Jet,Economy,1,140
+F00756,MMT101490,Akasa Air Express,Premium Economy,0,239
+F00757,MMT101491,Akasa Air Express,Premium Economy,0,199
+F00758,MMT101492,Air India Express,Business,0,160
+F00759,MMT101493,Akasa Air Express,Business,2,155
+F00760,MMT101497,Air India Express,Economy,2,189
+F00761,MMT101498,Akasa Air Express,Economy,0,124
+F00762,MMT101499,Air India Express,Economy,1,89
+F00763,MMT101500,Akasa Air Express,Economy,0,218
+F00764,MMT101503,Spice Jet,Economy,0,72
+F00765,MMT101504,Indigo,Economy,0,140
+F00766,MMT101507,Air India Express,Business,0,176
+F00767,MMT101508,Spice Jet,Business,1,134
+F00768,MMT101509,Air India Express,Economy,1,91
+F00769,MMT101510,Spice Jet,Economy,0,194
+F00770,MMT101513,Spice Jet,Economy,0,97
+F00771,MMT101514,Air India Express,Economy,0,160
+F00772,MMT101515,Spice Jet,Business,0,162
+F00773,MMT101517,Indigo,Economy,0,173
+F00774,MMT101518,Spice Jet,Economy,1,99
+F00775,MMT101520,Spice Jet,Business,0,196
+F00776,MMT101521,Air India Express,Economy,0,82
+F00777,MMT101522,Akasa Air Express,Economy,0,112
+F00778,MMT101523,Spice Jet,Premium Economy,0,212
+F00779,MMT101527,Akasa Air Express,Premium Economy,0,73
+F00780,MMT101531,Akasa Air Express,Premium Economy,0,104
+F00781,MMT101534,Air India Express,Premium Economy,0,85
+F00782,MMT101535,Akasa Air Express,Business,0,85
+F00783,MMT101537,Air India Express,Economy,1,66
+F00784,MMT101540,Akasa Air Express,Economy,1,70
+F00785,MMT101542,Akasa Air Express,Premium Economy,0,168
+F00786,MMT101551,Spice Jet,Economy,0,194
+F00787,MMT101553,Akasa Air Express,Economy,0,199
+F00788,MMT101554,Spice Jet,Economy,0,75
+F00789,MMT101555,Air India Express,Economy,0,205
+F00790,MMT101558,Spice Jet,Economy,0,196
+F00791,MMT101560,Spice Jet,Business,0,
+F00792,MMT101561,Indigo,Economy,0,114
+F00793,MMT101564,Air India Express,Economy,2,117
+F00794,MMT101567,Air India Express,Economy,1,186
+F00795,MMT101574,Air India Express,Premium Economy,0,0
+F00796,MMT101575,Air India Express,Premium Economy,0,79
+F00797,MMT101577,Air India Express,Economy,1,99
+F00798,MMT101578,Air India Express,Economy,0,236
+F00799,MMT101579,Spice Jet,Premium Economy,1,190
+F00800,MMT101580,Air India Express,Economy,0,217
+F00801,MMT101584,Air India Express,Economy,1,123
+F00803,MMT101586,Akasa Air Express,Economy,0,63
+F00804,MMT101592,Air India Express,Business,0,211
+F00805,MMT101593,Akasa Air Express,Economy,0,120
+F00806,MMT101594,Air India Express,Economy,0,108
+F00807,MMT101595,Akasa Air Express,Economy,0,148
+F00808,MMT101598,Akasa Air Express,Business,0,165
+F00809,MMT101599,Spice Jet,Business,0,189
+F00810,MMT101601,Air India Express,Economy,0,240
+F00811,MMT101603,Akasa Air Express,Premium Economy,0,154
+F00812,MMT101611,Air India Express,Premium Economy,1,202
+F00813,MMT101612,Spice Jet,Economy,0,182
+F00814,MMT101613,Indigo,Economy,1,131
+F00815,MMT101615,Air India Express,Economy,0,169
+F00816,MMT101616,Indigo,Premium Economy,0,75
+F00817,MMT101617,Air India Express,Premium Economy,0,121
+F00818,MMT101621,Indigo,Business,0,133
+F00819,MMT101622,Spice Jet,Economy,0,161
+F00820,MMT101623,Spice Jet,Premium Economy,0,207
+F00821,MMT101626,Air India Express,Economy,1,147
+F00822,MMT101629,Air India Express,Economy,0,191
+F00823,MMT101631,Air India Express,Premium Economy,0,159
+F00824,MMT101633,Akasa Air Express,Economy,2,182
+F00825,MMT101635,Indigo,Economy,0,194
+F00826,MMT101637,Air India Express,Economy,0,141
+F00827,MMT101638,Akasa Air Express,Economy,0,125
+F00828,MMT101641,Indigo,Economy,0,93
+F00829,MMT101644,Spice Jet,Economy,0,98
+F00830,MMT101645,Air India Express,Premium Economy,0,154
+F00831,MMT101646,Spice Jet,Premium Economy,2,84
+F00832,MMT101648,Air India Express,Economy,0,151
+F00833,MMT101649,Air India Express,Business,0,240
+F00834,MMT101650,Indigo,Business,0,154
+F00835,MMT101652,Akasa Air Express,Economy,0,123
+F00836,MMT101659,Akasa Air Express,Economy,2,179
+F00837,MMT101660,Akasa Air Express,Economy,0,80
+F00838,MMT101661,Air India Express,Business,0,165
+F00839,MMT101663,Air India Express,Economy,0,108
+F00840,MMT101668,Air India Express,Business,0,178
+F00841,MMT101670,Akasa Air Express,Economy,0,98
+F00842,MMT101673,Air India Express,Economy,1,225
+F00843,MMT101674,Air India Express,Premium Economy,0,138
+F00844,MMT101676,Indigo,Economy,0,149
+F00845,MMT101678,Indigo,Economy,1,169
+F00846,MMT101680,Spice Jet,Economy,2,159
+F00847,MMT101681,Spice Jet,Economy,0,125
+F00848,MMT101682,Spice Jet,Economy,1,143
+F00849,MMT101683,Air India Express,Premium Economy,2,105
+F00850,MMT101686,Indigo,Economy,1,139
+F00851,MMT101688,Air India Express,Economy,1,239
+F00852,MMT101689,Air India Express,Economy,0,147
+F00853,MMT101692,Air India Express,Economy,1,182
+F00854,MMT101694,Indigo,Economy,1,139
+F00855,MMT101695,Air India Express,Premium Economy,2,71
+F00856,MMT101696,Air India Express,Business,0,143
+F00857,MMT101697,Air India Express,Premium Economy,1,102
+F00858,MMT101700,Indigo,Business,0,60
+F00859,MMT101702,Indigo,Economy,0,150
+F00860,MMT101704,Air India Express,Business,0,237
+F00861,MMT101705,Indigo,Business,0,73
+F00862,MMT101708,Indigo,Premium Economy,1,75
+F00863,MMT101711,Indigo,Economy,0,229
+F00864,MMT101712,Spice Jet,Premium Economy,1,150
+F00865,MMT101713,Air India Express,Business,2,86
+F00866,MMT101716,Indigo,Economy,1,78
+F00867,MMT101719,Spice Jet,Economy,0,192
+F00868,MMT101724,Akasa Air Express,Economy,0,105
+F00869,MMT101726,Air India Express,Economy,2,
+F00870,MMT101727,Spice Jet,Business,0,194
+F00871,MMT101729,Spice Jet,Business,0,73
+F00872,MMT101732,Indigo,Economy,1,165
+F00873,MMT101734,Akasa Air Express,Economy,0,127
+F00874,MMT101735,Spice Jet,Economy,0,65
+F00875,MMT101736,Air India Express,Premium Economy,0,204
+F00876,MMT101739,Indigo,Premium Economy,1,234
+F00877,MMT101743,Indigo,Premium Economy,0,96
+F00878,MMT101745,Air India Express,Economy,0,122
+F00879,MMT101746,Akasa Air Express,Economy,1,143
+F00880,MMT101747,Spice Jet,Premium Economy,0,152
+F00881,MMT101752,Air India Express,Economy,0,143
+F00882,MMT101754,Air India Express,Economy,0,111
+F00883,MMT101758,Air India Express,Business,0,138
+F00884,MMT101759,Air India Express,Business,0,147
+F00885,MMT101760,Akasa Air Express,Premium Economy,1,131
+F00886,MMT101761,Air India Express,Economy,0,74
+F00887,MMT101762,Air India Express,Business,0,95
+F00888,MMT101764,Air India Express,Economy,0,70
+F00889,MMT101767,Indigo,Economy,1,176
+F00890,MMT101773,Spice Jet,Economy,0,
+F00891,MMT101775,Akasa Air Express,Economy,0,76
+F00892,MMT101777,Air India Express,Business,2,182
+F00893,MMT101782,Air India Express,Economy,1,98
+F00894,MMT101783,Spice Jet,Premium Economy,0,174
+F00895,MMT101784,Air India Express,Business,0,143
+F00896,MMT101786,Indigo,Premium Economy,0,68
+F00897,MMT101788,Spice Jet,Economy,0,226
+F00898,MMT101791,Spice Jet,Business,1,228
+F00899,MMT101793,Air India Express,Business,0,143
+F00900,MMT101798,Air India Express,Economy,0,64
+F00901,MMT101799,Spice Jet,Economy,0,91
+F00902,MMT101801,Indigo,Premium Economy,0,120
+F00903,MMT101802,Air India Express,Business,0,213
+F00904,MMT101805,Air India Express,Business,1,134
+F00905,MMT101808,Spice Jet,Economy,0,125
+F00906,MMT101810,Air India Express,Economy,1,194
+F00907,MMT101811,Air India Express,Economy,0,183
+F00908,MMT101812,Air India Express,Economy,1,137
+F00909,MMT101814,Air India Express,Economy,1,90
+F00910,MMT101817,Akasa Air Express,Business,0,166
+F00911,MMT101818,Air India Express,Business,1,174
+F00912,MMT101819,Indigo,Economy,0,163
+F00913,MMT101825,Spice Jet,Economy,0,217
+F00914,MMT101826,Akasa Air Express,Economy,0,240
+F00915,MMT101828,Indigo,Economy,0,206
+F00916,MMT101831,Akasa Air Express,Economy,0,159
+F00917,MMT101832,Spice Jet,Economy,0,239
+F00918,MMT101833,Air India Express,Premium Economy,2,156
+F00919,MMT101836,Spice Jet,Economy,0,180
+F00920,MMT101841,Akasa Air Express,Economy,1,105
+F00921,MMT101843,Air India Express,Premium Economy,0,186
+F00922,MMT101844,Spice Jet,Premium Economy,1,220
+F00923,MMT101845,Air India Express,Economy,1,92
+F00924,MMT101847,Air India Express,Economy,0,157
+F00925,MMT101848,Spice Jet,Economy,1,192
+F00926,MMT101849,Akasa Air Express,Economy,0,139
+F00927,MMT101850,Spice Jet,Economy,0,125
+F00928,MMT101851,Akasa Air Express,Economy,0,0
+F00929,MMT101852,Air India Express,Economy,1,146
+F00930,MMT101854,Air India Express,Premium Economy,0,149
+F00931,MMT101856,Spice Jet,Business,0,230
+F00932,MMT101860,Air India Express,Economy,0,131
+F00933,MMT101861,Air India Express,Premium Economy,0,90
+F00934,MMT101863,Air India Express,Economy,0,
+F00935,MMT101864,Air India Express,Business,1,142
+F00936,MMT101867,Akasa Air Express,Business,0,187
+F00937,MMT101868,Akasa Air Express,Premium Economy,1,212
+F00938,MMT101869,Akasa Air Express,Economy,1,145
+F00939,MMT101871,Spice Jet,Premium Economy,0,223
+F00940,MMT101877,Spice Jet,Economy,0,177
+F00941,MMT101879,Akasa Air Express,Economy,0,101
+F00942,MMT101880,Indigo,Economy,2,80
+F00943,MMT101884,Indigo,Economy,0,194
+F00944,MMT101885,Spice Jet,Economy,0,119
+F00945,MMT101886,Indigo,Business,0,78
+F00946,MMT101887,Akasa Air Express,Economy,0,209
+F00947,MMT101889,Air India Express,Business,0,0
+F00948,MMT101892,Air India Express,Economy,0,77
+F00949,MMT101893,Air India Express,Economy,0,119
+F00950,MMT101895,Akasa Air Express,Business,0,172
+F00951,MMT101896,Air India Express,Economy,0,75
+F00952,MMT101897,Air India Express,Economy,1,0
+F00953,MMT101898,Air India Express,Economy,2,173
+F00954,MMT101899,Spice Jet,Economy,0,187
+F00955,MMT101901,Spice Jet,Economy,0,126
+F00956,MMT101902,Indigo,Premium Economy,0,101
+F00957,MMT101904,Akasa Air Express,Economy,0,198
+F00958,MMT101908,Akasa Air Express,Business,0,167
+F00959,MMT101911,Spice Jet,Economy,1,205
+F00960,MMT101912,Air India Express,Economy,0,159
+F00961,MMT101915,Indigo,Economy,0,188
+F00962,MMT101916,Air India Express,Business,0,92
+F00963,MMT101919,Spice Jet,Economy,0,141
+F00964,MMT101923,Akasa Air Express,Economy,0,133
+F00965,MMT101924,Akasa Air Express,Economy,2,64
+F00966,MMT101929,Air India Express,Economy,0,163
+F00967,MMT101935,Air India Express,Economy,0,77
+F00968,MMT101936,Air India Express,Business,1,168
+F00969,MMT101942,Indigo,Business,0,
+F00970,MMT101944,Spice Jet,Economy,0,89
+F00971,MMT101945,Spice Jet,Economy,0,101
+F00972,MMT101949,Air India Express,Economy,0,217
+F00973,MMT101952,Indigo,Economy,0,233
+F00974,MMT101953,Air India Express,Business,0,217
+F00975,MMT101954,Air India Express,Business,0,199
+F00976,MMT101955,Spice Jet,Premium Economy,0,120
+F00977,MMT101961,Spice Jet,Economy,0,145
+F00978,MMT101964,Air India Express,Economy,0,186
+F00979,MMT101965,Air India Express,Economy,1,239
+F00980,MMT101968,Air India Express,Economy,0,132
+F00981,MMT101973,Indigo,Economy,0,193
+F00982,MMT101974,Indigo,Economy,1,74
+F00983,MMT101976,Akasa Air Express,Business,1,195
+F00984,MMT101978,Indigo,Economy,1,124
+F00985,MMT101984,Akasa Air Express,Economy,0,
+F00986,MMT101985,Akasa Air Express,Premium Economy,1,211
+F00987,MMT101986,Akasa Air Express,Economy,1,142
+F00988,MMT101990,Air India Express,Economy,0,113
+F00989,MMT101992,Air India Express,Business,0,235
+F00990,MMT101993,Spice Jet,Economy,0,204
+F00991,MMT101994,Indigo,Premium Economy,0,138
+F00992,MMT101995,Spice Jet,Economy,0,173
+F00993,MMT101996,Spice Jet,Economy,1,171
+F00994,MMT101997,Indigo,Economy,0,141
+F00995,MMT101998,Air India Express,Business,0,
+F00996,MMT101999,Air India Express,Economy,0,86
+F00997,MMT102002,Air India Express,Economy,0,210
+F00998,MMT102003,Air India Express,Economy,1,86
+F00999,MMT102006,Air India Express,Business,1,175
+F01000,MMT102007,Air India Express,Economy,0,95
+F01001,MMT102010,Akasa Air Express,Business,0,65
+F01002,MMT102014,Spice Jet,Economy,0,114
+F01003,MMT102015,Spice Jet,Economy,0,141
+F01004,MMT102017,Akasa Air Express,Economy,1,125
+F01005,MMT102020,Indigo,Economy,0,239
+F01006,MMT102022,Air India Express,Economy,0,160
+F01007,MMT102023,Akasa Air Express,Economy,1,147
+F01008,MMT102029,Air India Express,Economy,0,87
+F01009,MMT102032,Akasa Air Express,Economy,1,121
+F01010,MMT102033,Air India Express,Economy,1,234
+F01011,MMT102036,Akasa Air Express,Business,0,190
+F01012,MMT102038,Indigo,Economy,0,208
+F01013,MMT102039,Indigo,Premium Economy,0,89
+F01014,MMT102040,Air India Express,Economy,0,111
+F01015,MMT102041,Spice Jet,Premium Economy,0,203
+F01016,MMT102042,Akasa Air Express,Economy,0,219
+F01017,MMT102044,Indigo,Economy,0,189
+F01018,MMT102045,Air India Express,Business,0,190
+F01019,MMT102048,Akasa Air Express,Economy,0,239
+F01020,MMT102050,Indigo,Economy,1,222
+F01021,MMT102051,Akasa Air Express,Premium Economy,2,212
+F01022,MMT102052,Akasa Air Express,Economy,1,184
+F01023,MMT102054,Air India Express,Business,0,161
+F01024,MMT102055,Air India Express,Economy,2,224
+F01025,MMT102056,Indigo,Economy,0,108
+F01026,MMT102059,Spice Jet,Economy,0,144
+F01027,MMT102064,Air India Express,Business,1,127
+F01028,MMT102065,Akasa Air Express,Economy,0,108
+F01029,MMT102066,Akasa Air Express,Economy,1,79
+F01030,MMT102067,Spice Jet,Premium Economy,0,108
+F01031,MMT102068,Indigo,Economy,0,150
+F01032,MMT102069,Air India Express,Economy,0,87
+F01033,MMT102070,Akasa Air Express,Economy,0,200
+F01034,MMT102072,Air India Express,Premium Economy,1,175
+F01035,MMT102073,Air India Express,Economy,2,215
+F01036,MMT102074,Air India Express,Economy,0,219
+F01037,MMT102078,Air India Express,Economy,0,180
+F01038,MMT102080,Air India Express,Business,0,133
+F01039,MMT102082,Indigo,Economy,0,104
+F01040,MMT102083,Air India Express,Economy,0,147
+F01041,MMT102085,Indigo,Economy,0,168
+F01042,MMT102088,Akasa Air Express,Premium Economy,1,76
+F01043,MMT102089,Indigo,Economy,0,125
+F01044,MMT102091,Akasa Air Express,Premium Economy,1,127
+F01045,MMT102093,Indigo,Economy,1,182
+F01046,MMT102094,Air India Express,Economy,0,235
+F01047,MMT102096,Spice Jet,Economy,0,106
+F01048,MMT102099,Indigo,Economy,0,141
+F01049,MMT102105,Akasa Air Express,Premium Economy,0,109
+F01050,MMT102107,Spice Jet,Economy,1,173
+F01051,MMT102109,Air India Express,Business,0,115
+F01052,MMT102110,Air India Express,Economy,0,150
+F01053,MMT102111,Spice Jet,Economy,0,229
+F01054,MMT102112,Air India Express,Economy,0,80
+F01055,MMT102114,Air India Express,Economy,0,124
+F01056,MMT102117,Indigo,Economy,0,211
+F01057,MMT102122,Akasa Air Express,Economy,1,105
+F01058,MMT102125,Indigo,Economy,0,157
+F01059,MMT102127,Air India Express,Economy,0,229
+F01060,MMT102131,Spice Jet,Economy,0,180
+F01061,MMT102132,Akasa Air Express,Economy,0,150
+F01062,MMT102133,Spice Jet,Economy,0,128
+F01063,MMT102136,Indigo,Economy,0,73
+F01064,MMT102137,Indigo,Economy,1,230
+F01065,MMT102138,Akasa Air Express,Economy,2,91
+F01066,MMT102142,Spice Jet,Business,1,160
+F01067,MMT102143,Air India Express,Economy,0,95
+F01068,MMT102148,Air India Express,Economy,0,215
+F01069,MMT102149,Spice Jet,Economy,0,151
+F01070,MMT102150,Spice Jet,Economy,1,97
+F01071,MMT102151,Indigo,Economy,0,201
+F01072,MMT102152,Akasa Air Express,Economy,0,211
+F01073,MMT102153,Akasa Air Express,Economy,0,146
+F01074,MMT102154,Air India Express,Economy,1,168
+F01075,MMT102155,Air India Express,Economy,0,212
+F01076,MMT102157,Air India Express,Premium Economy,1,153
+F01077,MMT102158,Akasa Air Express,Economy,0,160
+F01078,MMT102159,Air India Express,Economy,1,65
+F01079,MMT102160,Spice Jet,Premium Economy,0,102
+F01080,MMT102161,Air India Express,Economy,0,74
+F01081,MMT102163,Air India Express,Economy,1,110
+F01082,MMT102166,Air India Express,Economy,0,238
+F01083,MMT102169,Indigo,Economy,0,236
+F01084,MMT102176,Air India Express,Premium Economy,1,217
+F01085,MMT102181,Air India Express,Economy,0,197
+F01086,MMT102184,Akasa Air Express,Business,1,109
+F01087,MMT102187,Akasa Air Express,Economy,0,130
+F01088,MMT102188,Spice Jet,Economy,1,203
+F01089,MMT102189,Akasa Air Express,Economy,1,61
+F01090,MMT102190,Spice Jet,Economy,0,236
+F01091,MMT102192,Akasa Air Express,Business,0,112
+F01092,MMT102193,Spice Jet,Premium Economy,0,85
+F01093,MMT102194,Air India Express,Economy,1,86
+F01094,MMT102196,Akasa Air Express,Business,0,169
+F01095,MMT102198,Akasa Air Express,Economy,1,177
+F01096,MMT102199,Air India Express,Premium Economy,0,159
+F01097,MMT102200,Indigo,Economy,0,78
+F01098,MMT102201,Akasa Air Express,Economy,1,155
+F01099,MMT102202,Indigo,Business,0,210
+F01100,MMT102203,Air India Express,Business,0,94
+F01101,MMT102204,Spice Jet,Economy,0,130
+F01102,MMT102210,Akasa Air Express,Premium Economy,1,158
+F01103,MMT102211,Akasa Air Express,Economy,0,112
+F01104,MMT102212,Indigo,Business,0,234
+F01105,MMT102213,Air India Express,Economy,1,117
+F01106,MMT102215,Indigo,Economy,0,163
+F01107,MMT102216,Air India Express,Economy,0,143
+F01108,MMT102221,Air India Express,Economy,0,194
+F01109,MMT102222,Spice Jet,Business,1,236
+F01110,MMT102224,Air India Express,Business,0,73
+F01111,MMT102225,Indigo,Business,0,197
+F01112,MMT102226,Indigo,Economy,1,107
+F01113,MMT102228,Air India Express,Economy,0,118
+F01114,MMT102229,Akasa Air Express,Premium Economy,1,205
+F01115,MMT102235,Akasa Air Express,Economy,1,180
+F01116,MMT102237,Spice Jet,Economy,1,102
+F01117,MMT102239,Indigo,Economy,0,81
+F01118,MMT102240,Air India Express,Economy,0,84
+F01119,MMT102241,Air India Express,Premium Economy,1,154
+F01120,MMT102243,Indigo,Economy,0,140
+F01121,MMT102245,Spice Jet,Economy,0,79
+F01122,MMT102247,Air India Express,Business,0,69
+F01123,MMT102249,Indigo,Economy,1,208
+F01124,MMT102250,Air India Express,Economy,0,133
+F01125,MMT102255,Air India Express,Premium Economy,1,129
+F01126,MMT102256,Spice Jet,Business,0,152
+F01127,MMT102259,Indigo,Economy,0,90
+F01128,MMT102260,Air India Express,Business,1,167
+F01129,MMT102262,Spice Jet,Business,0,180
+F01130,MMT102263,Akasa Air Express,Economy,0,200
+F01131,MMT102264,Indigo,Premium Economy,1,231
+F01132,MMT102266,Akasa Air Express,Premium Economy,1,76
+F01133,MMT102268,Air India Express,Business,1,194
+F01134,MMT102269,Air India Express,Economy,0,157
+F01135,MMT102271,Akasa Air Express,Economy,0,156
+F01136,MMT102272,Akasa Air Express,Economy,0,236
+F01137,MMT102273,Air India Express,Economy,0,240
+F01138,MMT102276,Indigo,Business,1,112
+F01139,MMT102277,Indigo,Economy,0,177
+F01140,MMT102278,Air India Express,Premium Economy,0,90
+F01141,MMT102279,Air India Express,Economy,1,198
+F01142,MMT102280,Air India Express,Business,0,93
+F01143,MMT102284,Indigo,Economy,0,75
+F01144,MMT102285,Spice Jet,Business,2,63
+F01145,MMT102286,Akasa Air Express,Premium Economy,0,85
+F01146,MMT102288,Air India Express,Economy,0,181
+F01147,MMT102290,Spice Jet,Business,2,133
+F01148,MMT102291,Air India Express,Economy,2,217
+F01149,MMT102292,Air India Express,Economy,0,82
+F01150,MMT102293,Indigo,Economy,0,82
+F01151,MMT102294,Air India Express,Economy,0,73
+F01152,MMT102295,Air India Express,Economy,0,233
+F01153,MMT102297,Indigo,Economy,1,79
+F01154,MMT102298,Indigo,Economy,0,80
+F01155,MMT102299,Air India Express,Economy,0,96
+F01156,MMT102300,Air India Express,Economy,0,126
+F01157,MMT102301,Akasa Air Express,Premium Economy,0,153
+F01158,MMT102303,Spice Jet,Economy,0,168
+F01159,MMT102304,Spice Jet,Economy,0,166
+F01160,MMT102306,Spice Jet,Economy,1,162
+F01161,MMT102310,Akasa Air Express,Economy,1,0
+F01162,MMT102312,Spice Jet,Economy,0,86
+F01163,MMT102318,Air India Express,Business,1,100
+F01165,MMT102323,Spice Jet,Economy,1,142
+F01166,MMT102326,Air India Express,Economy,0,135
+F01167,MMT102327,Air India Express,Economy,0,226
+F01168,MMT102330,Spice Jet,Economy,0,70
+F01169,MMT102334,Indigo,Premium Economy,0,223
+F01170,MMT102336,Air India Express,Economy,0,218
+F01171,MMT102337,Spice Jet,Premium Economy,0,
+F01172,MMT102338,Air India Express,Premium Economy,0,185
+F01173,MMT102340,Air India Express,Premium Economy,0,72
+F01174,MMT102342,Indigo,Business,1,60
+F01175,MMT102343,Spice Jet,Economy,1,118
+F01176,MMT102345,Spice Jet,Economy,0,130
+F01177,MMT102346,Akasa Air Express,Economy,0,148
+F01178,MMT102347,Spice Jet,Economy,0,217
+F01179,MMT102348,Air India Express,Premium Economy,0,226
+F01180,MMT102350,Air India Express,Economy,1,235
+F01181,MMT102351,Indigo,Business,0,81
+F01182,MMT102353,Air India Express,Business,1,231
+F01183,MMT102354,Akasa Air Express,Premium Economy,0,218
+F01184,MMT102355,Spice Jet,Economy,0,218
+F01185,MMT102356,Air India Express,Premium Economy,0,135
+F01186,MMT102357,Akasa Air Express,Economy,1,170
+F01187,MMT102358,Spice Jet,Economy,0,121
+F01188,MMT102360,Air India Express,Economy,2,167
+F01189,MMT102362,Air India Express,Business,0,175
+F01190,MMT102363,Indigo,Premium Economy,1,161
+F01191,MMT102368,Akasa Air Express,Premium Economy,0,65
+F01192,MMT102370,Indigo,Economy,0,137
+F01193,MMT102373,Air India Express,Premium Economy,0,237
+F01194,MMT102375,Air India Express,Economy,2,156
+F01195,MMT102376,Air India Express,Economy,0,148
+F01196,MMT102377,Spice Jet,Economy,0,78
+F01197,MMT102380,Air India Express,Economy,0,86
+F01198,MMT102382,Akasa Air Express,Economy,1,138
+F01199,MMT102384,Air India Express,Economy,0,102
+F01200,MMT102388,Air India Express,Business,0,239
+F01201,MMT102389,Air India Express,Economy,0,186
+F01202,MMT102390,Spice Jet,Economy,0,201
+F01203,MMT102391,Indigo,Business,1,138
+F01204,MMT102393,Akasa Air Express,Economy,0,188
+F01205,MMT102394,Air India Express,Economy,1,239
+F01206,MMT102395,Spice Jet,Economy,0,143
+F01207,MMT102400,Air India Express,Business,0,93
+F01208,MMT102401,Air India Express,Economy,0,208
+F01209,MMT102402,Air India Express,Economy,0,206
+F01210,MMT102406,Akasa Air Express,Economy,0,121
+F01211,MMT102407,Air India Express,Premium Economy,0,226
+F01212,MMT102408,Air India Express,Economy,0,189
+F01213,MMT102409,Spice Jet,Premium Economy,2,107
+F01214,MMT102410,Akasa Air Express,Premium Economy,1,63
+F01215,MMT102411,Akasa Air Express,Economy,0,228
+F01216,MMT102415,Akasa Air Express,Premium Economy,0,237
+F01217,MMT102419,Air India Express,Economy,1,98
+F01218,MMT102420,Spice Jet,Economy,0,122
+F01219,MMT102421,Air India Express,Economy,0,153
+F01220,MMT102422,Indigo,Business,0,62
+F01221,MMT102423,Air India Express,Economy,0,216
+F01222,MMT102424,Akasa Air Express,Economy,0,151
+F01223,MMT102425,Air India Express,Economy,0,112
+F01224,MMT102426,Air India Express,Economy,0,141
+F01225,MMT102432,Air India Express,Business,0,138
+F01226,MMT102433,Air India Express,Economy,0,179
+F01227,MMT102434,Air India Express,Business,0,129
+F01228,MMT102435,Akasa Air Express,Business,1,71
+F01229,MMT102436,Akasa Air Express,Economy,1,126
+F01230,MMT102438,Indigo,Economy,0,138
+F01231,MMT102440,Akasa Air Express,Premium Economy,0,213
+F01232,MMT102442,Indigo,Premium Economy,2,163
+F01233,MMT102446,Spice Jet,Business,0,217
+F01234,MMT102448,Air India Express,Economy,0,217
+F01235,MMT102449,Air India Express,Economy,0,212
+F01236,MMT102450,Akasa Air Express,Premium Economy,1,127
+F01237,MMT102452,Spice Jet,Premium Economy,2,96
+F01238,MMT102455,Spice Jet,Economy,1,146
+F01239,MMT102456,Air India Express,Economy,0,117
+F01240,MMT102460,Air India Express,Economy,0,186
+F01241,MMT102463,Indigo,Economy,0,202
+F01242,MMT102464,Air India Express,Economy,1,102
+F01243,MMT102466,Air India Express,Economy,0,141
+F01244,MMT102467,Air India Express,Economy,1,
+F01245,MMT102468,Air India Express,Business,0,151
+F01246,MMT102469,Air India Express,Premium Economy,0,139
+F01247,MMT102470,Air India Express,Economy,0,139
+F01248,MMT102472,Indigo,Business,1,173
+F01249,MMT102473,Indigo,Economy,2,222
+F01250,MMT102474,Spice Jet,Business,0,115
+F01251,MMT102478,Akasa Air Express,Economy,1,210
+F01252,MMT102479,Air India Express,Economy,1,105
+F01253,MMT102480,Spice Jet,Economy,1,160
+F01254,MMT102483,Air India Express,Economy,0,97
+F01255,MMT102485,Akasa Air Express,Economy,1,176
+F01256,MMT102486,Air India Express,Economy,0,102
+F01257,MMT102487,Spice Jet,Business,0,212
+F01258,MMT102489,Indigo,Business,0,181
+F01259,MMT102491,Air India Express,Economy,0,127
+F01260,MMT102496,Spice Jet,Economy,0,195
+F01261,MMT102499,Air India Express,Premium Economy,0,167
+F01262,MMT102501,Akasa Air Express,Business,1,237
+F01263,MMT102502,Spice Jet,Business,0,143
+F01264,MMT102504,Air India Express,Economy,0,100
+F01265,MMT102505,Air India Express,Economy,1,237
+F01266,MMT102507,Air India Express,Business,1,205
+F01267,MMT102508,Air India Express,Business,1,118
+F01268,MMT102514,Indigo,Economy,0,231
+F01269,MMT102518,Akasa Air Express,Economy,0,202
+F01270,MMT102519,Air India Express,Economy,0,71
+F01271,MMT102523,Akasa Air Express,Economy,0,70
+F01272,MMT102524,Akasa Air Express,Premium Economy,1,62
+F01273,MMT102526,Akasa Air Express,Economy,1,215
+F01274,MMT102527,Indigo,Economy,0,105
+F01275,MMT102529,Air India Express,Economy,0,190
+F01276,MMT102530,Air India Express,Economy,1,73
+F01277,MMT102531,Spice Jet,Business,0,62
+F01278,MMT102533,Air India Express,Economy,0,99
+F01279,MMT102534,Air India Express,Economy,2,144
+F01280,MMT102538,Air India Express,Economy,1,191
+F01281,MMT102540,Akasa Air Express,Economy,0,225
+F01282,MMT102544,Air India Express,Business,0,107
+F01283,MMT102545,Air India Express,Economy,0,129
+F01284,MMT102547,Air India Express,Business,1,125
+F01285,MMT102548,Air India Express,Premium Economy,1,195
+F01286,MMT102550,Spice Jet,Economy,2,164
+F01287,MMT102551,Air India Express,Economy,0,192
+F01288,MMT102552,Air India Express,Economy,0,65
+F01289,MMT102554,Spice Jet,Economy,0,194
+F01290,MMT102555,Indigo,Premium Economy,0,167
+F01291,MMT102556,Spice Jet,Economy,0,101
+F01292,MMT102557,Air India Express,Business,0,96
+F01293,MMT102558,Spice Jet,Premium Economy,1,65
+F01294,MMT102560,Spice Jet,Economy,0,87
+F01295,MMT102561,Air India Express,Premium Economy,0,
+F01296,MMT102563,Akasa Air Express,Premium Economy,0,196
+F01297,MMT102564,Air India Express,Economy,1,81
+F01298,MMT102566,Air India Express,Premium Economy,0,165
+F01299,MMT102568,Air India Express,Business,1,80
+F01300,MMT102571,Air India Express,Economy,0,125
+F01301,MMT102573,Indigo,Premium Economy,0,66
+F01302,MMT102574,Air India Express,Business,0,211
+F01303,MMT102575,Air India Express,Economy,0,213
+F01304,MMT102579,Air India Express,Economy,0,96
+F01305,MMT102580,Spice Jet,Economy,0,81
+F01306,MMT102581,Air India Express,Economy,1,96
+F01307,MMT102582,Air India Express,Premium Economy,0,164
+F01308,MMT102588,Air India Express,Economy,0,218
+F01309,MMT102590,Spice Jet,Economy,0,151
+F01310,MMT102593,Air India Express,Economy,0,174
+F01311,MMT102595,Air India Express,Business,0,199
+F01312,MMT102597,Air India Express,Economy,0,115
+F01313,MMT102598,Spice Jet,Economy,0,179
+F01314,MMT102600,Air India Express,Economy,0,68
+F01315,MMT102601,Air India Express,Economy,1,69
+F01316,MMT102607,Air India Express,Economy,1,152
+F01317,MMT102608,Spice Jet,Economy,0,211
+F01318,MMT102611,Spice Jet,Economy,1,186
+F01319,MMT102612,Air India Express,Business,1,110
+F01320,MMT102615,Air India Express,Premium Economy,2,133
+F01321,MMT102617,Indigo,Economy,0,222
+F01322,MMT102618,Air India Express,Economy,0,217
+F01323,MMT102621,Air India Express,Premium Economy,1,89
+F01324,MMT102622,Spice Jet,Economy,1,208
+F01325,MMT102623,Air India Express,Business,0,98
+F01326,MMT102626,Spice Jet,Economy,1,116
+F01327,MMT102627,Air India Express,Premium Economy,0,202
+F01328,MMT102631,Indigo,Business,0,195
+F01329,MMT102635,Spice Jet,Business,0,233
+F01330,MMT102637,Akasa Air Express,Premium Economy,0,128
+F01331,MMT102638,Indigo,Economy,0,213
+F01332,MMT102640,Akasa Air Express,Economy,0,98
+F01333,MMT102643,Air India Express,Economy,0,135
+F01334,MMT102644,Akasa Air Express,Economy,0,174
+F01335,MMT102645,Akasa Air Express,Economy,0,137
+F01336,MMT102649,Air India Express,Economy,0,83
+F01337,MMT102653,Akasa Air Express,Business,0,227
+F01338,MMT102654,Indigo,Premium Economy,0,221
+F01339,MMT102655,Indigo,Business,2,88
+F01340,MMT102656,Air India Express,Economy,0,192
+F01341,MMT102657,Spice Jet,Economy,1,212
+F01342,MMT102660,Air India Express,Premium Economy,1,210
+F01343,MMT102661,Indigo,Economy,0,206
+F01344,MMT102662,Air India Express,Business,0,85
+F01345,MMT102666,Air India Express,Economy,0,120
+F01346,MMT102667,Air India Express,Business,0,114
+F01347,MMT102670,Air India Express,Premium Economy,0,238
+F01348,MMT102672,Air India Express,Economy,1,105
+F01349,MMT102673,Air India Express,Business,0,200
+F01350,MMT102674,Spice Jet,Economy,0,145
+F01351,MMT102675,Air India Express,Premium Economy,0,240
+F01352,MMT102676,Air India Express,Economy,0,167
+F01353,MMT102677,Akasa Air Express,Economy,0,
+F01354,MMT102681,Air India Express,Economy,0,166
+F01355,MMT102682,Spice Jet,Economy,1,219
+F01356,MMT102683,Air India Express,Business,1,162
+F01357,MMT102685,Air India Express,Economy,0,102
+F01358,MMT102686,Spice Jet,Business,2,140
+F01359,MMT102687,Akasa Air Express,Business,0,169
+F01360,MMT102688,Akasa Air Express,Economy,0,222
+F01361,MMT102693,Akasa Air Express,Business,1,222
+F01362,MMT102695,Spice Jet,Business,0,141
+F01363,MMT102696,Indigo,Premium Economy,0,131
+F01364,MMT102697,Air India Express,Economy,0,143
+F01365,MMT102701,Spice Jet,Economy,2,236
+F01366,MMT102703,Akasa Air Express,Economy,0,178
+F01367,MMT102706,Spice Jet,Business,0,84
+F01368,MMT102711,Air India Express,Business,1,146
+F01369,MMT102712,Indigo,Premium Economy,0,218
+F01370,MMT102714,Indigo,Economy,0,80
+F01371,MMT102716,Air India Express,Business,0,179
+F01372,MMT102717,Air India Express,Premium Economy,0,171
+F01373,MMT102718,Spice Jet,Business,1,160
+F01374,MMT102719,Air India Express,Economy,0,154
+F01375,MMT102721,Air India Express,Economy,0,114
+F01376,MMT102722,Akasa Air Express,Economy,1,92
+F01377,MMT102725,Air India Express,Economy,1,84
+F01378,MMT102726,Akasa Air Express,Business,0,146
+F01379,MMT102727,Air India Express,Economy,1,101
+F01380,MMT102728,Indigo,Premium Economy,0,65
+F01381,MMT102729,Air India Express,Economy,1,101
+F01382,MMT102734,Indigo,Economy,0,227
+F01383,MMT102737,Air India Express,Premium Economy,1,212
+F01384,MMT102739,Indigo,Economy,0,152
+F01385,MMT102741,Air India Express,Economy,0,154
+F01386,MMT102742,Indigo,Economy,1,172
+F01387,MMT102744,Indigo,Economy,0,165
+F01388,MMT102746,Air India Express,Economy,0,111
+F01389,MMT102748,Indigo,Premium Economy,0,72
+F01390,MMT102749,Spice Jet,Economy,0,190
+F01391,MMT102750,Spice Jet,Premium Economy,2,120
+F01392,MMT102751,Indigo,Economy,0,101
+F01393,MMT102752,Air India Express,Economy,0,236
+F01394,MMT102754,Air India Express,Economy,0,76
+F01395,MMT102755,Air India Express,Economy,0,184
+F01396,MMT102757,Indigo,Economy,0,82
+F01397,MMT102760,Air India Express,Economy,0,203
+F01398,MMT102762,Akasa Air Express,Premium Economy,1,79
+F01399,MMT102764,Air India Express,Business,0,
+F01400,MMT102766,Akasa Air Express,Premium Economy,1,203
+F01401,MMT102768,Indigo,Business,1,
+F01402,MMT102771,Air India Express,Economy,1,152
+F01403,MMT102772,Akasa Air Express,Economy,0,209
+F01404,MMT102773,Air India Express,Economy,1,96
+F01405,MMT102774,Air India Express,Premium Economy,0,107
+F01407,MMT102776,Air India Express,Premium Economy,0,93
+F01408,MMT102777,Air India Express,Economy,0,76
+F01410,MMT102780,Indigo,Business,0,235
+F01411,MMT102781,Spice Jet,Economy,0,71
+F01412,MMT102782,Akasa Air Express,Economy,0,69
+F01413,MMT102785,Spice Jet,Economy,1,235
+F01414,MMT102787,Air India Express,Economy,0,149
+F01415,MMT102789,Akasa Air Express,Economy,0,238
+F01416,MMT102792,Air India Express,Business,0,125
+F01417,MMT102793,Air India Express,Economy,0,62
+F01418,MMT102794,Indigo,Business,0,222
+F01419,MMT102796,Akasa Air Express,Premium Economy,0,162
+F01420,MMT102797,Air India Express,Economy,0,238
+F01421,MMT102798,Indigo,Economy,0,99
+F01422,MMT102799,Indigo,Economy,1,164
+F01423,MMT102804,Akasa Air Express,Premium Economy,0,205
+F01424,MMT102805,Air India Express,Business,1,199
+F01425,MMT102806,Spice Jet,Premium Economy,0,113
+F01426,MMT102809,Indigo,Economy,0,155
+F01427,MMT102817,Air India Express,Premium Economy,1,
+F01428,MMT102822,Akasa Air Express,Economy,0,207
+F01429,MMT102823,Air India Express,Business,0,143
+F01430,MMT102824,Air India Express,Premium Economy,1,202
+F01431,MMT102825,Indigo,Economy,0,231
+F01432,MMT102827,Air India Express,Premium Economy,0,177
+F01433,MMT102832,Indigo,Economy,1,68
+F01434,MMT102833,Spice Jet,Premium Economy,0,231
+F01435,MMT102834,Indigo,Business,0,83
+F01436,MMT102837,Air India Express,Economy,1,78
+F01437,MMT102838,Spice Jet,Economy,2,60
+F01438,MMT102839,Air India Express,Economy,0,104
+F01439,MMT102841,Air India Express,Economy,0,83
+F01440,MMT102842,Akasa Air Express,Economy,2,171
+F01441,MMT102846,Indigo,Economy,0,215
+F01442,MMT102847,Indigo,Premium Economy,0,134
+F01443,MMT102849,Air India Express,Economy,1,80
+F01444,MMT102852,Air India Express,Premium Economy,2,153
+F01445,MMT102854,Indigo,Economy,0,103
+F01446,MMT102855,Spice Jet,Economy,0,209
+F01447,MMT102857,Air India Express,Economy,1,0
+F01448,MMT102861,Air India Express,Business,0,209
+F01449,MMT102863,Akasa Air Express,Economy,0,81
+F01450,MMT102865,Air India Express,Business,0,188
+F01451,MMT102869,Air India Express,Economy,0,230
+F01452,MMT102872,Indigo,Premium Economy,1,86
+F01453,MMT102873,Indigo,Business,1,148
+F01454,MMT102876,Akasa Air Express,Premium Economy,0,140
+F01455,MMT102882,Spice Jet,Economy,2,
+F01456,MMT102885,Indigo,Economy,0,104
+F01457,MMT102886,Spice Jet,Economy,1,70
+F01458,MMT102887,Air India Express,Economy,0,183
+F01459,MMT102888,Spice Jet,Economy,1,175
+F01460,MMT102891,Indigo,Economy,1,206
+F01461,MMT102892,Air India Express,Economy,1,103
+F01462,MMT102893,Air India Express,Economy,0,119
+F01463,MMT102895,Air India Express,Economy,0,164
+F01464,MMT102896,Air India Express,Economy,0,160
+F01465,MMT102897,Indigo,Economy,0,125
+F01466,MMT102899,Spice Jet,Economy,1,157
+F01467,MMT102901,Air India Express,Business,1,224
+F01468,MMT102903,Akasa Air Express,Economy,0,223
+F01469,MMT102904,Akasa Air Express,Economy,1,134
+F01470,MMT102906,Indigo,Economy,0,84
+F01471,MMT102907,Air India Express,Economy,1,146
+F01472,MMT102909,Spice Jet,Economy,0,113
+F01473,MMT102910,Air India Express,Business,1,175
+F01474,MMT102911,Spice Jet,Business,1,157
+F01475,MMT102913,Indigo,Economy,0,60
+F01476,MMT102914,Spice Jet,Economy,0,60
+F01477,MMT102919,Spice Jet,Economy,0,97
+F01478,MMT102921,Akasa Air Express,Economy,0,106
+F01479,MMT102922,Indigo,Economy,0,81
+F01480,MMT102923,Air India Express,Business,0,0
+F01481,MMT102925,Spice Jet,Premium Economy,0,147
+F01482,MMT102927,Akasa Air Express,Premium Economy,0,187
+F01483,MMT102928,Spice Jet,Economy,0,91
+F01484,MMT102929,Spice Jet,Business,0,213
+F01485,MMT102931,Akasa Air Express,Economy,0,105
+F01486,MMT102934,Air India Express,Economy,0,87
+F01487,MMT102937,Air India Express,Premium Economy,1,217
+F01488,MMT102939,Akasa Air Express,Economy,0,197
+F01489,MMT102941,Indigo,Economy,0,235
+F01490,MMT102942,Indigo,Business,0,189
+F01491,MMT102943,Akasa Air Express,Economy,0,185
+F01492,MMT102944,Air India Express,Premium Economy,1,225
+F01493,MMT102947,Indigo,Business,1,102
+F01494,MMT102949,Air India Express,Premium Economy,1,143
+F01495,MMT102950,Air India Express,Economy,0,106
+F01496,MMT102951,Spice Jet,Economy,0,170
+F01497,MMT102953,Indigo,Economy,0,218
+F01498,MMT102955,Akasa Air Express,Economy,0,235
+F01499,MMT102957,Indigo,Economy,1,105
+F01500,MMT102958,Air India Express,Business,0,86
+F01501,MMT102959,Air India Express,Business,2,132
+F01502,MMT102963,Spice Jet,Economy,0,169
+F01503,MMT102967,Air India Express,Premium Economy,0,209
+F01504,MMT102971,Air India Express,Premium Economy,1,97
+F01505,MMT102972,Akasa Air Express,Business,0,203
+F01506,MMT102975,Spice Jet,Business,0,227
+F01507,MMT102979,Spice Jet,Economy,0,233
+F01508,MMT102980,Air India Express,Economy,0,209
+F01509,MMT102982,Spice Jet,Business,0,197
+F01510,MMT102983,Air India Express,Economy,1,151
+F01511,MMT102984,Spice Jet,Business,0,147
+F01512,MMT102986,Indigo,Economy,0,70
+F01513,MMT102987,Air India Express,Economy,0,114
+F01514,MMT102988,Air India Express,Business,0,220
+F01515,MMT102991,Air India Express,Premium Economy,0,130
+F01516,MMT102994,Air India Express,Business,0,129
+F01517,MMT102995,Indigo,Business,0,87
+F01518,MMT102999,Spice Jet,Economy,0,68
+F01519,MMT103005,Akasa Air Express,Premium Economy,0,
+F01520,MMT103007,Spice Jet,Business,0,205
+F01521,MMT103010,Akasa Air Express,Economy,0,156
+F01522,MMT103012,Indigo,Business,0,91
+F01523,MMT103014,Spice Jet,Economy,0,129
+F01524,MMT103019,Akasa Air Express,Economy,0,138
+F01525,MMT103020,Spice Jet,Economy,0,215
+F01526,MMT103021,Spice Jet,Premium Economy,0,124
+F01527,MMT103024,Spice Jet,Premium Economy,0,61
+F01528,MMT103026,Spice Jet,Business,1,78
+F01529,MMT103027,Spice Jet,Business,1,129
+F01530,MMT103032,Air India Express,Economy,1,228
+F01531,MMT103033,Indigo,Economy,0,129
+F01532,MMT103034,Indigo,Economy,1,240
+F01533,MMT103035,Air India Express,Business,0,144
+F01534,MMT103037,Air India Express,Economy,0,135
+F01535,MMT103040,Air India Express,Economy,0,183
+F01536,MMT103041,Akasa Air Express,Business,1,143
+F01537,MMT103043,Akasa Air Express,Economy,0,225
+F01538,MMT103044,Indigo,Premium Economy,0,240
+F01539,MMT103045,Air India Express,Economy,0,89
+F01540,MMT103048,Indigo,Business,0,117
+F01541,MMT103052,Air India Express,Business,0,212
+F01542,MMT103054,Indigo,Business,1,129
+F01543,MMT103055,Air India Express,Business,0,152
+F01544,MMT103061,Air India Express,Premium Economy,0,87
+F01545,MMT103062,Air India Express,Economy,0,204
+F01547,MMT103066,Air India Express,Economy,1,180
+F01548,MMT103067,Indigo,Economy,0,195
+F01549,MMT103068,Air India Express,Business,0,193
+F01550,MMT103071,Spice Jet,Economy,0,204
+F01551,MMT103072,Air India Express,Economy,0,138
+F01552,MMT103073,Spice Jet,Economy,0,214
+F01553,MMT103074,Akasa Air Express,Economy,0,154
+F01554,MMT103076,Spice Jet,Economy,0,197
+F01555,MMT103078,Air India Express,Economy,1,178
+F01556,MMT103079,Air India Express,Economy,0,189
+F01557,MMT103081,Spice Jet,Economy,0,181
+F01558,MMT103083,Air India Express,Economy,0,118
+F01559,MMT103085,Akasa Air Express,Economy,0,198
+F01560,MMT103086,Indigo,Economy,0,109
+F01561,MMT103087,Spice Jet,Premium Economy,0,101
+F01562,MMT103091,Air India Express,Economy,1,209
+F01563,MMT103093,Indigo,Economy,0,171
+F01564,MMT103094,Akasa Air Express,Economy,0,81
+F01565,MMT103095,Akasa Air Express,Business,0,238
+F01566,MMT103099,Air India Express,Business,2,85
+F01567,MMT103100,Indigo,Economy,1,122
+F01568,MMT103101,Spice Jet,Business,0,88
+F01569,MMT103108,Air India Express,Economy,1,240
+F01570,MMT103113,Air India Express,Economy,0,213
+F01571,MMT103114,Spice Jet,Premium Economy,1,85
+F01572,MMT103115,Air India Express,Premium Economy,0,149
+F01573,MMT103117,Air India Express,Economy,0,86
+F01574,MMT103121,Air India Express,Economy,0,62
+F01575,MMT103123,Akasa Air Express,Business,0,111
+F01576,MMT103126,Akasa Air Express,Premium Economy,0,130
+F01577,MMT103128,Air India Express,Economy,0,223
+F01578,MMT103129,Akasa Air Express,Economy,0,201
+F01579,MMT103130,Air India Express,Economy,2,121
+F01580,MMT103131,Air India Express,Business,0,129
+F01581,MMT103132,Air India Express,Economy,0,155
+F01582,MMT103138,Spice Jet,Economy,2,148
+F01583,MMT103139,Spice Jet,Economy,0,233
+F01584,MMT103141,Akasa Air Express,Business,0,163
+F01585,MMT103142,Air India Express,Economy,0,62
+F01586,MMT103143,Akasa Air Express,Economy,0,117
+F01587,MMT103145,Spice Jet,Economy,1,164
+F01588,MMT103146,Air India Express,Premium Economy,0,202
+F01589,MMT103148,Akasa Air Express,Business,0,89
+F01590,MMT103152,Indigo,Economy,1,192
+F01591,MMT103155,Indigo,Premium Economy,1,179
+F01592,MMT103163,Spice Jet,Premium Economy,0,209
+F01593,MMT103165,Air India Express,Premium Economy,1,163
+F01594,MMT103167,Air India Express,Economy,0,92
+F01595,MMT103168,Indigo,Business,0,238
+F01596,MMT103170,Akasa Air Express,Business,0,75
+F01597,MMT103172,Air India Express,Economy,0,103
+F01598,MMT103175,Air India Express,Economy,1,162
+F01599,MMT103176,Air India Express,Economy,0,71
+F01600,MMT103177,Akasa Air Express,Economy,0,109
+F01601,MMT103179,Spice Jet,Economy,1,150
+F01602,MMT103180,Indigo,Economy,0,199
+F01603,MMT103182,Spice Jet,Economy,1,143
+F01604,MMT103185,Spice Jet,Economy,0,125
+F01605,MMT103189,Air India Express,Premium Economy,0,201
+F01606,MMT103193,Spice Jet,Economy,0,230
+F01607,MMT103194,Air India Express,Economy,0,92
+F01608,MMT103197,Akasa Air Express,Premium Economy,0,240
+F01610,MMT103199,Akasa Air Express,Premium Economy,0,215
+F01611,MMT103200,Air India Express,Premium Economy,0,196
+F01612,MMT103201,Akasa Air Express,Economy,0,146
+F01613,MMT103203,Indigo,Premium Economy,1,77
+F01615,MMT103206,Akasa Air Express,Economy,1,112
+F01616,MMT103207,Air India Express,Business,2,127
+F01617,MMT103208,Air India Express,Economy,1,145
+F01618,MMT103210,Air India Express,Economy,0,95
+F01619,MMT103212,Air India Express,Premium Economy,1,236
+F01620,MMT103216,Air India Express,Economy,1,74
+F01621,MMT103217,Spice Jet,Business,0,233
+F01622,MMT103219,Spice Jet,Premium Economy,0,237
+F01623,MMT103225,Spice Jet,Economy,1,87
+F01624,MMT103227,Akasa Air Express,Economy,0,226
+F01625,MMT103229,Indigo,Economy,1,82
+F01626,MMT103238,Akasa Air Express,Economy,1,213
+F01627,MMT103239,Air India Express,Economy,0,159
+F01628,MMT103241,Indigo,Economy,0,131
+F01629,MMT103244,Akasa Air Express,Premium Economy,1,219
+F01630,MMT103248,Air India Express,Business,2,231
+F01631,MMT103249,Spice Jet,Business,0,81
+F01632,MMT103250,Air India Express,Economy,0,226
+F01633,MMT103252,Akasa Air Express,Premium Economy,0,64
+F01634,MMT103253,Air India Express,Economy,0,121
+F01635,MMT103255,Air India Express,Business,2,159
+F01636,MMT103258,Spice Jet,Premium Economy,0,221
+F01637,MMT103259,Indigo,Premium Economy,0,138
+F01638,MMT103261,Spice Jet,Business,0,215
+F01639,MMT103262,Air India Express,Business,0,88
+F01640,MMT103264,Air India Express,Business,0,114
+F01641,MMT103265,Air India Express,Premium Economy,2,0
+F01642,MMT103266,Air India Express,Economy,0,146
+F01643,MMT103267,Akasa Air Express,Business,0,159
+F01644,MMT103268,Spice Jet,Economy,1,165
+F01645,MMT103269,Akasa Air Express,Economy,1,64
+F01646,MMT103270,Indigo,Business,0,188
+F01647,MMT103271,Spice Jet,Economy,0,82
+F01648,MMT103272,Indigo,Economy,1,76
+F01649,MMT103273,Air India Express,Business,1,224
+F01650,MMT103275,Air India Express,Economy,0,166
+F01651,MMT103276,Air India Express,Economy,1,188
+F01652,MMT103277,Indigo,Economy,0,168
+F01653,MMT103285,Air India Express,Business,0,206
+F01654,MMT103286,Air India Express,Business,0,224
+F01655,MMT103290,Indigo,Premium Economy,0,123
+F01656,MMT103292,Spice Jet,Premium Economy,0,208
+F01657,MMT103295,Air India Express,Business,1,158
+F01658,MMT103297,Akasa Air Express,Premium Economy,0,221
+F01659,MMT103299,Indigo,Premium Economy,0,202
+F01660,MMT103301,Air India Express,Economy,0,191
+F01661,MMT103302,Akasa Air Express,Business,0,143
+F01662,MMT103303,Air India Express,Premium Economy,0,104
+F01663,MMT103304,Air India Express,Premium Economy,0,123
+F01664,MMT103308,Akasa Air Express,Economy,0,72
+F01665,MMT103310,Akasa Air Express,Economy,1,217
+F01666,MMT103312,Indigo,Economy,0,152
+F01667,MMT103314,Indigo,Premium Economy,0,116
+F01668,MMT103315,Air India Express,Economy,0,171
+F01669,MMT103319,Akasa Air Express,Economy,0,105
+F01670,MMT103320,Air India Express,Economy,0,70
+F01671,MMT103323,Indigo,Economy,1,96
+F01672,MMT103326,Spice Jet,Economy,0,205
+F01673,MMT103330,Air India Express,Premium Economy,0,142
+F01674,MMT103331,Indigo,Economy,0,81
+F01675,MMT103334,Indigo,Economy,0,109
+F01676,MMT103336,Akasa Air Express,Economy,1,196
+F01677,MMT103337,Spice Jet,Premium Economy,0,216
+F01678,MMT103338,Air India Express,Economy,1,153
+F01679,MMT103339,Spice Jet,Economy,0,65
+F01680,MMT103340,Indigo,Premium Economy,0,68
+F01681,MMT103342,Indigo,Premium Economy,0,167
+F01682,MMT103346,Air India Express,Business,1,150
+F01683,MMT103347,Spice Jet,Economy,1,89
+F01684,MMT103348,Air India Express,Economy,0,82
+F01685,MMT103355,Spice Jet,Business,0,212
+F01686,MMT103356,Indigo,Premium Economy,2,121
+F01687,MMT103361,Indigo,Economy,0,221
+F01688,MMT103362,Spice Jet,Economy,2,65
+F01689,MMT103363,Air India Express,Economy,0,112
+F01690,MMT103364,Spice Jet,Economy,0,83
+F01691,MMT103365,Air India Express,Premium Economy,0,229
+F01692,MMT103367,Indigo,Premium Economy,0,92
+F01693,MMT103368,Spice Jet,Business,0,177
+F01694,MMT103369,Akasa Air Express,Premium Economy,1,180
+F01695,MMT103371,Indigo,Business,1,220
+F01696,MMT103372,Air India Express,Economy,0,65
+F01697,MMT103374,Air India Express,Premium Economy,1,69
+F01698,MMT103375,Air India Express,Business,0,113
+F01699,MMT103376,Air India Express,Premium Economy,0,99
+F01700,MMT103377,Akasa Air Express,Economy,1,210
+F01701,MMT103378,Spice Jet,Premium Economy,0,85
+F01702,MMT103379,Akasa Air Express,Business,0,193
+F01703,MMT103381,Spice Jet,Economy,0,140
+F01704,MMT103382,Air India Express,Premium Economy,1,66
+F01705,MMT103383,Air India Express,Premium Economy,0,204
+F01706,MMT103384,Indigo,Premium Economy,0,141
+F01707,MMT103387,Akasa Air Express,Economy,1,104
+F01708,MMT103389,Spice Jet,Economy,1,175
+F01709,MMT103390,Spice Jet,Economy,0,78
+F01710,MMT103391,Akasa Air Express,Premium Economy,0,63
+F01711,MMT103392,Spice Jet,Economy,0,160
+F01712,MMT103393,Air India Express,Business,0,173
+F01713,MMT103395,Akasa Air Express,Economy,0,75
+F01714,MMT103397,Spice Jet,Premium Economy,1,142
+F01715,MMT103398,Air India Express,Economy,2,86
+F01716,MMT103399,Indigo,Economy,1,227
+F01717,MMT103400,Akasa Air Express,Business,0,93
+F01718,MMT103402,Air India Express,Economy,0,95
+F01719,MMT103403,Akasa Air Express,Economy,1,239
+F01720,MMT103404,Akasa Air Express,Economy,0,61
+F01721,MMT103407,Spice Jet,Economy,0,86
+F01722,MMT103412,Air India Express,Business,0,205
+F01723,MMT103413,Air India Express,Premium Economy,1,169
+F01724,MMT103417,Indigo,Business,1,158
+F01725,MMT103418,Air India Express,Economy,0,201
+F01726,MMT103419,Indigo,Economy,2,178
+F01727,MMT103420,Indigo,Economy,0,170
+F01728,MMT103422,Air India Express,Economy,1,71
+F01729,MMT103425,Air India Express,Economy,0,166
+F01730,MMT103426,Akasa Air Express,Business,0,190
+F01731,MMT103429,Indigo,Premium Economy,0,158
+F01732,MMT103430,Akasa Air Express,Economy,1,161
+F01733,MMT103431,Air India Express,Economy,0,205
+F01734,MMT103433,Air India Express,Economy,0,137
+F01735,MMT103434,Akasa Air Express,Economy,0,120
+F01736,MMT103436,Indigo,Business,0,139
+F01737,MMT103437,Akasa Air Express,Economy,0,198
+F01738,MMT103439,Akasa Air Express,Economy,0,165
+F01739,MMT103442,Akasa Air Express,Economy,0,193
+F01740,MMT103443,Air India Express,Economy,1,215
+F01741,MMT103445,Air India Express,Economy,0,83
+F01742,MMT103448,Indigo,Economy,0,138
+F01743,MMT103450,Air India Express,Economy,0,126
+F01744,MMT103451,Akasa Air Express,Economy,0,116
+F01745,MMT103452,Air India Express,Premium Economy,0,147
+F01746,MMT103453,Spice Jet,Economy,0,193
+F01747,MMT103457,Air India Express,Economy,0,229
+F01748,MMT103459,Indigo,Premium Economy,1,103
+F01749,MMT103461,Akasa Air Express,Economy,0,224
+F01750,MMT103462,Air India Express,Premium Economy,1,80
+F01751,MMT103463,Spice Jet,Economy,0,121
+F01752,MMT103469,Air India Express,Economy,0,228
+F01753,MMT103470,Air India Express,Premium Economy,0,170
+F01754,MMT103474,Indigo,Economy,0,97
+F01755,MMT103475,Indigo,Economy,0,155
+F01756,MMT103476,Akasa Air Express,Economy,2,86
+F01757,MMT103477,Air India Express,Business,0,229
+F01758,MMT103480,Air India Express,Economy,0,192
+F01759,MMT103482,Air India Express,Premium Economy,0,234
+F01760,MMT103483,Indigo,Economy,0,198
+F01761,MMT103484,Akasa Air Express,Economy,0,100
+F01762,MMT103485,Akasa Air Express,Economy,2,128
+F01763,MMT103486,Air India Express,Economy,1,206
+F01764,MMT103490,Air India Express,Economy,0,85
+F01765,MMT103492,Spice Jet,Premium Economy,0,90
+F01766,MMT103493,Indigo,Business,0,150
+F01767,MMT103495,Air India Express,Economy,0,161
+F01768,MMT103497,Air India Express,Economy,1,156
+F01769,MMT103498,Spice Jet,Premium Economy,0,178
+F01770,MMT103500,Akasa Air Express,Economy,0,83
+F01771,MMT103501,Akasa Air Express,Economy,0,218
+F01772,MMT103502,Akasa Air Express,Premium Economy,0,88
+F01773,MMT103506,Akasa Air Express,Economy,0,153
+F01774,MMT103507,Indigo,Economy,2,79
+F01775,MMT103508,Spice Jet,Economy,0,219
+F01776,MMT103512,Akasa Air Express,Economy,0,125
+F01777,MMT103514,Indigo,Business,1,88
+F01778,MMT103518,Akasa Air Express,Business,1,124
+F01779,MMT103519,Spice Jet,Economy,1,78
+F01780,MMT103521,Spice Jet,Premium Economy,0,214
+F01781,MMT103522,Air India Express,Premium Economy,0,110
+F01782,MMT103525,Air India Express,Business,1,119
+F01783,MMT103527,Air India Express,Economy,0,60
+F01784,MMT103529,Akasa Air Express,Economy,0,172
+F01785,MMT103530,Akasa Air Express,Business,0,169
+F01786,MMT103535,Indigo,Economy,0,150
+F01787,MMT103537,Spice Jet,Economy,1,200
+F01788,MMT103540,Air India Express,Economy,0,102
+F01789,MMT103542,Air India Express,Economy,1,202
+F01790,MMT103544,Akasa Air Express,Economy,0,148
+F01791,MMT103545,Spice Jet,Economy,0,171
+F01792,MMT103547,Indigo,Economy,0,142
+F01793,MMT103553,Indigo,Premium Economy,0,161
+F01794,MMT103554,Air India Express,Premium Economy,1,83
+F01795,MMT103555,Akasa Air Express,Economy,0,192
+F01796,MMT103556,Air India Express,Economy,0,195
+F01797,MMT103558,Spice Jet,Premium Economy,0,65
+F01798,MMT103562,Akasa Air Express,Economy,0,205
+F01799,MMT103563,Akasa Air Express,Economy,1,137
+F01800,MMT103565,Spice Jet,Premium Economy,0,185
+F01801,MMT103566,Indigo,Business,0,203
+F01802,MMT103567,Akasa Air Express,Business,0,222
+F01803,MMT103569,Air India Express,Business,0,60
+F01804,MMT103573,Indigo,Economy,0,223
+F01805,MMT103575,Air India Express,Premium Economy,1,233
+F01806,MMT103576,Spice Jet,Business,1,114
+F01807,MMT103578,Air India Express,Economy,0,71
+F01808,MMT103580,Akasa Air Express,Economy,0,220
+F01809,MMT103581,Air India Express,Business,1,234
+F01810,MMT103582,Air India Express,Business,0,101
+F01811,MMT103584,Akasa Air Express,Economy,0,238
+F01812,MMT103591,Spice Jet,Economy,0,179
+F01813,MMT103592,Akasa Air Express,Economy,0,216
+F01814,MMT103593,Spice Jet,Business,2,79
+F01815,MMT103594,Air India Express,Economy,0,162
+F01816,MMT103595,Indigo,Economy,0,185
+F01817,MMT103596,Spice Jet,Economy,0,87
+F01818,MMT103600,Air India Express,Economy,0,100
+F01819,MMT103601,Air India Express,Business,0,148
+F01820,MMT103602,Akasa Air Express,Economy,1,158
+F01821,MMT103606,Indigo,Economy,1,149
+F01822,MMT103608,Air India Express,Economy,0,132
+F01823,MMT103610,Akasa Air Express,Economy,1,90
+F01824,MMT103611,Indigo,Premium Economy,1,163
+F01825,MMT103612,Air India Express,Economy,0,62
+F01826,MMT103617,Akasa Air Express,Business,0,65
+F01827,MMT103618,Akasa Air Express,Business,0,98
+F01828,MMT103619,Air India Express,Economy,0,217
+F01829,MMT103620,Air India Express,Business,1,233
+F01830,MMT103623,Spice Jet,Premium Economy,0,114
+F01831,MMT103624,Akasa Air Express,Premium Economy,0,199
+F01832,MMT103625,Air India Express,Economy,0,90
+F01833,MMT103628,Air India Express,Business,2,232
+F01834,MMT103629,Akasa Air Express,Economy,0,168
+F01835,MMT103631,Air India Express,Premium Economy,0,146
+F01836,MMT103633,Air India Express,Economy,0,105
+F01837,MMT103635,Indigo,Premium Economy,0,199
+F01838,MMT103636,Akasa Air Express,Economy,2,97
+F01839,MMT103637,Air India Express,Economy,0,182
+F01840,MMT103639,Air India Express,Economy,0,232
+F01841,MMT103641,Indigo,Premium Economy,0,120
+F01842,MMT103642,Indigo,Business,0,138
+F01843,MMT103643,Spice Jet,Economy,0,166
+F01844,MMT103644,Air India Express,Economy,0,124
+F01845,MMT103646,Air India Express,Economy,0,165
+F01846,MMT103647,Akasa Air Express,Economy,1,63
+F01847,MMT103648,Air India Express,Economy,0,109
+F01848,MMT103651,Air India Express,Economy,0,194
+F01849,MMT103652,Akasa Air Express,Premium Economy,0,160
+F01850,MMT103653,Air India Express,Business,0,205
+F01851,MMT103655,Air India Express,Business,1,100
+F01852,MMT103656,Air India Express,Economy,0,123
+F01853,MMT103661,Akasa Air Express,Premium Economy,0,143
+F01854,MMT103662,Spice Jet,Economy,0,201
+F01855,MMT103663,Air India Express,Premium Economy,0,216
+F01856,MMT103664,Air India Express,Premium Economy,1,143
+F01857,MMT103668,Spice Jet,Economy,0,208
+F01858,MMT103670,Spice Jet,Economy,0,208
+F01859,MMT103672,Air India Express,Premium Economy,0,198
+F01860,MMT103673,Air India Express,Economy,0,94
+F01861,MMT103674,Spice Jet,Economy,1,227
+F01862,MMT103675,Air India Express,Economy,1,239
+F01863,MMT103678,Spice Jet,Economy,0,68
+F01864,MMT103680,Akasa Air Express,Business,1,107
+F01865,MMT103681,Air India Express,Premium Economy,0,199
+F01866,MMT103683,Spice Jet,Economy,0,119
+F01867,MMT103686,Air India Express,Premium Economy,0,209
+F01868,MMT103688,Akasa Air Express,Economy,1,100
+F01869,MMT103690,Air India Express,Economy,0,156
+F01870,MMT103691,Spice Jet,Economy,2,110
+F01871,MMT103692,Akasa Air Express,Business,1,194
+F01872,MMT103694,Air India Express,Economy,1,79
+F01873,MMT103696,Air India Express,Economy,1,135
+F01874,MMT103697,Spice Jet,Economy,0,141
+F01875,MMT103699,Air India Express,Economy,0,239
+F01876,MMT103700,Indigo,Premium Economy,0,101
+F01877,MMT103701,Air India Express,Economy,0,86
+F01878,MMT103702,Air India Express,Economy,0,121
+F01879,MMT103703,Spice Jet,Economy,0,104
+F01880,MMT103707,Spice Jet,Economy,0,120
+F01881,MMT103714,Akasa Air Express,Premium Economy,0,147
+F01882,MMT103715,Spice Jet,Premium Economy,0,223
+F01883,MMT103717,Spice Jet,Economy,0,201
+F01884,MMT103718,Air India Express,Economy,0,130
+F01885,MMT103719,Akasa Air Express,Premium Economy,0,228
+F01886,MMT103721,Indigo,Business,1,237
+F01887,MMT103723,Akasa Air Express,Economy,0,76
+F01888,MMT103724,Indigo,Economy,0,217
+F01889,MMT103725,Akasa Air Express,Economy,0,125
+F01890,MMT103726,Air India Express,Economy,0,211
+F01891,MMT103727,Air India Express,Economy,1,172
+F01892,MMT103728,Spice Jet,Economy,1,207
+F01893,MMT103732,Indigo,Economy,1,197
+F01894,MMT103733,Spice Jet,Economy,0,69
+F01895,MMT103735,Air India Express,Premium Economy,0,
+F01896,MMT103736,Akasa Air Express,Business,0,122
+F01897,MMT103737,Air India Express,Premium Economy,0,225
+F01898,MMT103738,Air India Express,Business,0,224
+F01899,MMT103741,Spice Jet,Business,1,156
+F01900,MMT103743,Indigo,Economy,1,176
+F01901,MMT103745,Indigo,Economy,1,190
+F01902,MMT103746,Akasa Air Express,Premium Economy,0,94
+F01903,MMT103747,Air India Express,Economy,0,221
+F01904,MMT103749,Akasa Air Express,Economy,1,207
+F01905,MMT103750,Air India Express,Economy,0,177
+F01906,MMT103753,Spice Jet,Business,0,96
+F01907,MMT103754,Spice Jet,Economy,0,178
+F01908,MMT103757,Indigo,Business,0,196
+F01909,MMT103760,Indigo,Economy,1,171
+F01910,MMT103761,Akasa Air Express,Economy,0,180
+F01911,MMT103765,Air India Express,Premium Economy,0,161
+F01912,MMT103768,Indigo,Business,0,0
+F01913,MMT103770,Air India Express,Economy,1,217
+F01914,MMT103771,Air India Express,Business,0,201
+F01915,MMT103772,Spice Jet,Economy,1,193
+F01916,MMT103777,Indigo,Business,0,67
+F01917,MMT103779,Air India Express,Economy,0,240
+F01918,MMT103780,Akasa Air Express,Economy,0,217
+F01919,MMT103782,Indigo,Premium Economy,0,164
+F01920,MMT103783,Air India Express,Premium Economy,2,74
+F01921,MMT103784,Akasa Air Express,Premium Economy,0,146
+F01922,MMT103786,Indigo,Economy,0,158
+F01923,MMT103787,Air India Express,Economy,1,173
+F01924,MMT103788,Air India Express,Economy,0,198
+F01925,MMT103791,Air India Express,Premium Economy,0,232
+F01926,MMT103794,Indigo,Business,0,160
+F01927,MMT103795,Indigo,Economy,2,94
+F01928,MMT103799,Spice Jet,Economy,1,101
+F01929,MMT103800,Spice Jet,Premium Economy,0,152
+F01930,MMT103802,Air India Express,Economy,0,169
+F01931,MMT103803,Spice Jet,Economy,0,73
+F01932,MMT103804,Spice Jet,Economy,1,161
+F01933,MMT103808,Air India Express,Economy,0,84
+F01934,MMT103810,Indigo,Economy,0,155
+F01935,MMT103812,Akasa Air Express,Economy,0,225
+F01936,MMT103813,Spice Jet,Economy,0,114
+F01937,MMT103814,Akasa Air Express,Economy,1,67
+F01938,MMT103816,Air India Express,Premium Economy,0,82
+F01939,MMT103817,Air India Express,Economy,0,123
+F01940,MMT103819,Spice Jet,Business,0,137
+F01941,MMT103820,Akasa Air Express,Business,1,140
+F01942,MMT103821,Spice Jet,Economy,0,123
+F01943,MMT103825,Air India Express,Economy,0,223
+F01944,MMT103826,Air India Express,Economy,0,182
+F01945,MMT103827,Spice Jet,Economy,0,130
+F01946,MMT103829,Air India Express,Economy,0,198
+F01947,MMT103830,Indigo,Economy,0,164
+F01948,MMT103831,Air India Express,Business,1,187
+F01949,MMT103834,Spice Jet,Economy,0,226
+F01950,MMT103835,Akasa Air Express,Business,0,167
+F01951,MMT103843,Air India Express,Premium Economy,1,108
+F01952,MMT103846,Spice Jet,Business,1,141
+F01953,MMT103847,Spice Jet,Business,0,204
+F01954,MMT103848,Spice Jet,Economy,1,146
+F01955,MMT103851,Akasa Air Express,Economy,0,73
+F01956,MMT103852,Air India Express,Economy,1,158
+F01957,MMT103853,Air India Express,Business,1,211
+F01958,MMT103855,Indigo,Economy,1,129
+F01959,MMT103856,Spice Jet,Premium Economy,0,188
+F01960,MMT103857,Akasa Air Express,Economy,0,215
+F01961,MMT103858,Air India Express,Business,0,223
+F01962,MMT103863,Akasa Air Express,Business,0,196
+F01963,MMT103864,Air India Express,Business,1,149
+F01964,MMT103866,Akasa Air Express,Economy,0,135
+F01965,MMT103867,Air India Express,Business,2,132
+F01966,MMT103868,Indigo,Economy,0,140
+F01967,MMT103873,Akasa Air Express,Business,0,205
+F01968,MMT103878,Air India Express,Business,0,151
+F01969,MMT103881,Spice Jet,Economy,0,229
+F01970,MMT103882,Indigo,Economy,0,227
+F01971,MMT103884,Air India Express,Business,1,127
+F01972,MMT103885,Akasa Air Express,Economy,0,184
+F01973,MMT103889,Akasa Air Express,Premium Economy,0,139
+F01974,MMT103894,Spice Jet,Economy,0,138
+F01975,MMT103896,Indigo,Economy,0,90
+F01976,MMT103897,Indigo,Economy,1,68
+F01977,MMT103899,Spice Jet,Economy,1,228
+F01978,MMT103904,Spice Jet,Economy,0,77
+F01979,MMT103907,Air India Express,Economy,0,86
+F01980,MMT103910,Spice Jet,Economy,1,109
+F01981,MMT103913,Air India Express,Business,2,161
+F01982,MMT103914,Akasa Air Express,Business,1,136
+F01983,MMT103915,Indigo,Business,0,140
+F01984,MMT103916,Indigo,Economy,0,129
+F01985,MMT103918,Indigo,Premium Economy,2,235
+F01986,MMT103919,Indigo,Business,0,196
+F01987,MMT103920,Akasa Air Express,Business,2,102
+F01988,MMT103922,Akasa Air Express,Business,1,229
+F01989,MMT103924,Spice Jet,Premium Economy,0,150
+F01990,MMT103925,Indigo,Business,1,193
+F01991,MMT103927,Indigo,Economy,0,156
+F01992,MMT103928,Air India Express,Business,0,125
+F01994,MMT103930,Air India Express,Economy,0,229
+F01995,MMT103931,Air India Express,Economy,0,150
+F01996,MMT103932,Spice Jet,Business,1,128
+F01997,MMT103933,Indigo,Economy,0,85
+F01998,MMT103939,Indigo,Economy,0,129
+F01999,MMT103940,Akasa Air Express,Economy,0,145
+F02000,MMT103942,Indigo,Economy,0,201
+F02001,MMT103943,Spice Jet,Economy,0,0
+F02002,MMT103944,Air India Express,Economy,0,90
+F02003,MMT103946,Akasa Air Express,Premium Economy,0,232
+F02004,MMT103948,Spice Jet,Economy,1,93
+F02005,MMT103949,Air India Express,Premium Economy,0,226
+F02006,MMT103950,Air India Express,Premium Economy,0,65
+F02007,MMT103951,Air India Express,Economy,0,134
+F02008,MMT103953,Indigo,Economy,1,94
+F02009,MMT103956,Akasa Air Express,Economy,0,234
+F02010,MMT103957,Indigo,Economy,0,105
+F02011,MMT103961,Akasa Air Express,Premium Economy,0,99
+F02012,MMT103962,Indigo,Premium Economy,0,236
+F02013,MMT103964,Air India Express,Business,2,215
+F02014,MMT103965,Indigo,Premium Economy,0,106
+F02015,MMT103967,Air India Express,Economy,0,151
+F02016,MMT103970,Akasa Air Express,Economy,1,221
+F02017,MMT103973,Akasa Air Express,Economy,1,238
+F02018,MMT103974,Spice Jet,Economy,1,116
+F02019,MMT103975,Air India Express,Business,0,77
+F02020,MMT103977,Akasa Air Express,Economy,2,174
+F02021,MMT103978,Akasa Air Express,Economy,0,100
+F02022,MMT103980,Indigo,Economy,0,66
+F02023,MMT103981,Spice Jet,Economy,0,211
+F02024,MMT103983,Spice Jet,Business,0,183
+F02025,MMT103984,Air India Express,Economy,0,229
+F02027,MMT103989,Air India Express,Economy,2,197
+F02028,MMT103990,Indigo,Economy,0,184
+F02029,MMT103993,Spice Jet,Economy,0,189
+F02030,MMT103995,Air India Express,Economy,0,181
+F02031,MMT103998,Indigo,Economy,0,62
+F02032,MMT103999,Air India Express,Economy,1,79
+F02033,MMT104000,Indigo,Economy,0,200
+F02034,MMT104002,Akasa Air Express,Economy,2,136
+F02035,MMT104007,Indigo,Economy,0,185
+F02036,MMT104011,Indigo,Premium Economy,0,168
+F02037,MMT104012,Spice Jet,Premium Economy,0,180
+F02038,MMT104014,Akasa Air Express,Economy,0,75
+F02039,MMT104016,Akasa Air Express,Economy,0,139
+F02040,MMT104017,Spice Jet,Business,1,87
+F02041,MMT104019,Akasa Air Express,Economy,0,78
+F02042,MMT104022,Akasa Air Express,Economy,0,201
+F02043,MMT104023,Akasa Air Express,Premium Economy,0,158
+F02044,MMT104024,Akasa Air Express,Economy,0,218
+F02045,MMT104027,Air India Express,Business,0,113
+F02046,MMT104029,Akasa Air Express,Business,1,221
+F02047,MMT104031,Akasa Air Express,Economy,2,89
+F02048,MMT104033,Spice Jet,Business,0,153
+F02049,MMT104035,Air India Express,Economy,0,211
+F02050,MMT104036,Air India Express,Economy,0,201
+F02051,MMT104038,Air India Express,Economy,0,220
+F02052,MMT104039,Indigo,Premium Economy,0,230
+F02053,MMT104041,Air India Express,Business,0,146
+F02054,MMT104043,Air India Express,Economy,0,67
+F02055,MMT104044,Air India Express,Economy,1,192
+F02056,MMT104047,Spice Jet,Economy,0,82
+F02057,MMT104052,Spice Jet,Business,0,106
+F02058,MMT104053,Air India Express,Economy,0,69
+F02059,MMT104055,Air India Express,Premium Economy,2,123
+F02060,MMT104056,Air India Express,Economy,0,122
+F02061,MMT104057,Spice Jet,Premium Economy,0,83
+F02062,MMT104058,Air India Express,Premium Economy,1,204
+F02063,MMT104061,Air India Express,Premium Economy,1,60
+F02064,MMT104064,Spice Jet,Premium Economy,0,232
+F02065,MMT104065,Spice Jet,Business,0,155
+F02066,MMT104066,Air India Express,Business,0,75
+F02067,MMT104069,Spice Jet,Premium Economy,2,137
+F02068,MMT104072,Indigo,Economy,0,
+F02069,MMT104074,Spice Jet,Business,1,121
+F02070,MMT104075,Air India Express,Business,0,150
+F02071,MMT104076,Indigo,Economy,1,71
+F02072,MMT104079,Air India Express,Economy,0,168
+F02073,MMT104082,Indigo,Premium Economy,0,169
+F02074,MMT104083,Indigo,Economy,0,204
+F02075,MMT104086,Air India Express,Economy,0,228
+F02076,MMT104087,Air India Express,Economy,2,131
+F02077,MMT104089,Spice Jet,Premium Economy,2,134
+F02078,MMT104090,Spice Jet,Economy,1,138
+F02079,MMT104094,Akasa Air Express,Economy,0,121
+F02080,MMT104096,Akasa Air Express,Economy,0,168
+F02082,MMT104099,Spice Jet,Economy,1,157
+F02083,MMT104105,Air India Express,Economy,0,110
+F02084,MMT104107,Akasa Air Express,Premium Economy,0,186
+F02085,MMT104108,Spice Jet,Economy,0,74
+F02086,MMT104112,Akasa Air Express,Economy,0,186
+F02087,MMT104114,Indigo,Premium Economy,0,161
+F02088,MMT104115,Spice Jet,Business,1,220
+F02089,MMT104118,Air India Express,Economy,1,197
+F02090,MMT104119,Air India Express,Economy,0,184
+F02091,MMT104120,Spice Jet,Economy,0,239
+F02092,MMT104122,Air India Express,Economy,1,98
+F02093,MMT104130,Air India Express,Premium Economy,1,191
+F02094,MMT104132,Akasa Air Express,Economy,0,214
+F02095,MMT104134,Spice Jet,Premium Economy,2,143
+F02096,MMT104135,Akasa Air Express,Economy,1,90
+F02097,MMT104136,Air India Express,Economy,0,128
+F02098,MMT104138,Air India Express,Business,0,97
+F02099,MMT104142,Indigo,Premium Economy,0,193
+F02100,MMT104143,Air India Express,Economy,0,184
+F02101,MMT104145,Spice Jet,Economy,0,131
+F02102,MMT104146,Spice Jet,Premium Economy,0,168
+F02103,MMT104149,Air India Express,Business,0,181
+F02104,MMT104152,Akasa Air Express,Economy,0,110
+F02105,MMT104153,Air India Express,Economy,0,122
+F02106,MMT104155,Air India Express,Economy,0,126
+F02107,MMT104156,Spice Jet,Business,0,165
+F02108,MMT104157,Akasa Air Express,Premium Economy,0,163
+F02109,MMT104160,Akasa Air Express,Business,0,71
+F02110,MMT104162,Air India Express,Business,0,188
+F02111,MMT104163,Indigo,Economy,1,184
+F02112,MMT104164,Air India Express,Economy,1,225
+F02113,MMT104165,Air India Express,Economy,1,75
+F02114,MMT104169,Indigo,Economy,0,208
+F02115,MMT104170,Akasa Air Express,Economy,0,188
+F02116,MMT104172,Air India Express,Economy,0,87
+F02117,MMT104173,Spice Jet,Economy,0,188
+F02118,MMT104174,Indigo,Economy,0,76
+F02119,MMT104175,Akasa Air Express,Business,1,169
+F02120,MMT104178,Spice Jet,Business,0,176
+F02121,MMT104180,Air India Express,Premium Economy,0,107
+F02122,MMT104183,Indigo,Business,0,163
+F02123,MMT104184,Spice Jet,Economy,0,113
+F02124,MMT104188,Spice Jet,Economy,0,79
+F02125,MMT104189,Air India Express,Business,0,166
+F02126,MMT104193,Air India Express,Business,0,188
+F02127,MMT104194,Akasa Air Express,Economy,0,89
+F02128,MMT104197,Akasa Air Express,Economy,0,162
+F02129,MMT104198,Air India Express,Premium Economy,1,214
+F02130,MMT104199,Spice Jet,Economy,1,133
+F02131,MMT104200,Akasa Air Express,Economy,1,83
+F02132,MMT104201,Air India Express,Business,0,216
+F02133,MMT104203,Air India Express,Premium Economy,0,145
+F02134,MMT104204,Akasa Air Express,Economy,2,66
+F02135,MMT104205,Air India Express,Economy,0,173
+F02136,MMT104206,Spice Jet,Economy,2,73
+F02137,MMT104207,Akasa Air Express,Business,0,184
+F02138,MMT104208,Air India Express,Economy,1,224
+F02139,MMT104212,Air India Express,Economy,0,131
+F02140,MMT104214,Air India Express,Economy,0,189
+F02141,MMT104215,Air India Express,Economy,0,188
+F02142,MMT104217,Indigo,Economy,0,189
+F02143,MMT104218,Indigo,Economy,1,103
+F02144,MMT104220,Akasa Air Express,Economy,1,150
+F02145,MMT104221,Spice Jet,Economy,0,115
+F02146,MMT104222,Air India Express,Economy,0,95
+F02147,MMT104225,Air India Express,Economy,1,203
+F02148,MMT104226,Indigo,Business,0,131
+F02149,MMT104229,Spice Jet,Economy,0,229
+F02150,MMT104231,Air India Express,Business,0,158
+F02151,MMT104232,Akasa Air Express,Premium Economy,0,221
+F02152,MMT104235,Indigo,Economy,2,158
+F02153,MMT104236,Spice Jet,Economy,1,125
+F02154,MMT104238,Indigo,Economy,0,192
+F02155,MMT104239,Indigo,Economy,0,137
+F02156,MMT104240,Spice Jet,Business,0,190
+F02157,MMT104242,Akasa Air Express,Economy,0,116
+F02158,MMT104243,Indigo,Economy,0,163
+F02159,MMT104247,Akasa Air Express,Economy,2,80
+F02160,MMT104248,Indigo,Economy,1,82
+F02161,MMT104249,Spice Jet,Business,1,198
+F02162,MMT104250,Spice Jet,Economy,0,206
+F02163,MMT104255,Spice Jet,Economy,0,109
+F02164,MMT104256,Air India Express,Economy,1,218
+F02165,MMT104257,Indigo,Economy,0,98
+F02166,MMT104258,Akasa Air Express,Business,0,182
+F02167,MMT104260,Akasa Air Express,Business,0,76
+F02168,MMT104261,Air India Express,Premium Economy,2,220
+F02169,MMT104264,Spice Jet,Premium Economy,0,186
+F02170,MMT104266,Air India Express,Business,0,216
+F02171,MMT104267,Air India Express,Economy,1,220
+F02172,MMT104269,Spice Jet,Economy,0,108
+F02173,MMT104270,Air India Express,Business,0,151
+F02174,MMT104274,Spice Jet,Premium Economy,1,194
+F02175,MMT104275,Indigo,Economy,0,209
+F02176,MMT104276,Akasa Air Express,Economy,1,210
+F02177,MMT104278,Akasa Air Express,Premium Economy,0,222
+F02178,MMT104280,Air India Express,Economy,1,220
+F02179,MMT104286,Akasa Air Express,Premium Economy,1,136
+F02180,MMT104289,Air India Express,Premium Economy,0,231
+F02181,MMT104294,Akasa Air Express,Premium Economy,0,133
+F02182,MMT104295,Spice Jet,Economy,1,224
+F02183,MMT104296,Spice Jet,Economy,0,188
+F02184,MMT104297,Spice Jet,Economy,0,200
+F02185,MMT104298,Air India Express,Economy,0,211
+F02186,MMT104301,Indigo,Economy,0,100
+F02187,MMT104302,Spice Jet,Economy,0,127
+F02188,MMT104303,Air India Express,Economy,1,202
+F02189,MMT104304,Air India Express,Premium Economy,0,150
+F02190,MMT104306,Akasa Air Express,Economy,0,147
+F02191,MMT104311,Indigo,Economy,0,115
+F02192,MMT104314,Indigo,Business,0,222
+F02193,MMT104315,Akasa Air Express,Premium Economy,0,224
+F02194,MMT104316,Air India Express,Economy,0,211
+F02195,MMT104320,Air India Express,Economy,0,132
+F02196,MMT104321,Akasa Air Express,Premium Economy,0,66
+F02197,MMT104322,Air India Express,Economy,0,103
+F02198,MMT104323,Indigo,Economy,1,177
+F02199,MMT104325,Indigo,Economy,0,171
+F02200,MMT104326,Spice Jet,Economy,0,131
+F02201,MMT104327,Indigo,Economy,2,132
+F02202,MMT104328,Spice Jet,Premium Economy,0,70
+F02203,MMT104332,Air India Express,Economy,0,90
+F02204,MMT104334,Spice Jet,Economy,0,134
+F02205,MMT104336,Spice Jet,Economy,1,192
+F02206,MMT104337,Air India Express,Premium Economy,0,103
+F02207,MMT104338,Akasa Air Express,Economy,0,228
+F02208,MMT104344,Akasa Air Express,Economy,0,152
+F02209,MMT104346,Air India Express,Business,1,235
+F02210,MMT104348,Akasa Air Express,Economy,1,186
+F02211,MMT104350,Akasa Air Express,Economy,0,73
+F02212,MMT104351,Spice Jet,Economy,1,83
+F02213,MMT104352,Air India Express,Economy,0,74
+F02214,MMT104355,Indigo,Economy,0,88
+F02215,MMT104356,Air India Express,Economy,0,62
+F02216,MMT104357,Akasa Air Express,Premium Economy,1,101
+F02217,MMT104360,Air India Express,Economy,0,165
+F02218,MMT104363,Spice Jet,Economy,0,80
+F02219,MMT104366,Akasa Air Express,Economy,0,191
+F02220,MMT104369,Spice Jet,Economy,0,190
+F02221,MMT104374,Air India Express,Economy,0,157
+F02222,MMT104377,Akasa Air Express,Economy,1,111
+F02223,MMT104378,Akasa Air Express,Economy,0,172
+F02224,MMT104381,Air India Express,Premium Economy,1,0
+F02225,MMT104382,Air India Express,Premium Economy,1,183
+F02226,MMT104383,Spice Jet,Business,0,95
+F02227,MMT104384,Air India Express,Economy,1,66
+F02228,MMT104387,Indigo,Economy,2,171
+F02229,MMT104388,Indigo,Economy,0,179
+F02230,MMT104390,Indigo,Economy,0,204
+F02231,MMT104391,Air India Express,Economy,0,79
+F02232,MMT104395,Indigo,Economy,0,114
+F02234,MMT104399,Spice Jet,Economy,0,236
+F02235,MMT104400,Indigo,Premium Economy,0,156
+F02236,MMT104401,Indigo,Economy,0,0
+F02237,MMT104405,Akasa Air Express,Economy,0,233
+F02238,MMT104407,Air India Express,Premium Economy,1,64
+F02239,MMT104411,Indigo,Premium Economy,0,105
+F02240,MMT104416,Indigo,Economy,0,68
+F02241,MMT104417,Spice Jet,Economy,0,230
+F02242,MMT104419,Akasa Air Express,Business,0,146
+F02243,MMT104420,Air India Express,Business,0,133
+F02244,MMT104422,Air India Express,Economy,1,217
+F02245,MMT104424,Indigo,Business,0,83
+F02246,MMT104425,Air India Express,Economy,0,138
+F02247,MMT104426,Akasa Air Express,Economy,2,63
+F02248,MMT104429,Indigo,Economy,1,188
+F02249,MMT104430,Air India Express,Premium Economy,1,136
+F02250,MMT104433,Air India Express,Business,0,133
+F02251,MMT104435,Indigo,Economy,1,234
+F02252,MMT104436,Akasa Air Express,Premium Economy,0,135
+F02253,MMT104437,Air India Express,Business,0,136
+F02254,MMT104438,Air India Express,Economy,0,230
+F02255,MMT104439,Akasa Air Express,Premium Economy,0,145
+F02256,MMT104440,Akasa Air Express,Business,0,89
+F02257,MMT104441,Air India Express,Economy,1,173
+F02258,MMT104443,Indigo,Premium Economy,1,230
+F02259,MMT104444,Akasa Air Express,Premium Economy,1,232
+F02260,MMT104445,Spice Jet,Economy,0,190
+F02261,MMT104446,Air India Express,Premium Economy,0,
+F02262,MMT104447,Indigo,Premium Economy,0,89
+F02263,MMT104450,Indigo,Economy,0,152
+F02264,MMT104451,Air India Express,Business,2,77
+F02265,MMT104452,Spice Jet,Economy,1,130
+F02266,MMT104453,Spice Jet,Business,0,128
+F02267,MMT104454,Indigo,Premium Economy,0,63
+F02268,MMT104455,Air India Express,Economy,0,211
+F02269,MMT104459,Akasa Air Express,Premium Economy,0,206
+F02270,MMT104460,Spice Jet,Business,0,94
+F02271,MMT104463,Indigo,Business,0,176
+F02272,MMT104464,Air India Express,Economy,0,193
+F02273,MMT104466,Indigo,Business,1,222
+F02274,MMT104467,Air India Express,Economy,0,0
+F02275,MMT104468,Air India Express,Economy,2,180
+F02276,MMT104469,Air India Express,Economy,0,84
+F02277,MMT104470,Akasa Air Express,Premium Economy,0,82
+F02278,MMT104472,Indigo,Economy,0,233
+F02279,MMT104474,Air India Express,Economy,0,182
+F02280,MMT104475,Akasa Air Express,Economy,2,207
+F02281,MMT104477,Indigo,Economy,1,97
+F02282,MMT104478,Air India Express,Business,1,72
+F02283,MMT104480,Air India Express,Economy,1,160
+F02284,MMT104485,Spice Jet,Economy,1,213
+F02285,MMT104486,Indigo,Business,0,81
+F02286,MMT104488,Air India Express,Economy,0,187
+F02287,MMT104489,Air India Express,Economy,0,237
+F02288,MMT104490,Indigo,Premium Economy,1,60
+F02289,MMT104491,Spice Jet,Premium Economy,1,188
+F02290,MMT104492,Air India Express,Premium Economy,0,150
+F02291,MMT104493,Spice Jet,Economy,0,191
+F02292,MMT104494,Spice Jet,Economy,1,151
+F02293,MMT104496,Air India Express,Economy,0,64
+F02294,MMT104497,Air India Express,Economy,0,90
+F02295,MMT104500,Spice Jet,Economy,0,123
+F02296,MMT104502,Air India Express,Premium Economy,1,222
+F02297,MMT104505,Akasa Air Express,Business,1,188
+F02298,MMT104507,Akasa Air Express,Economy,0,92
+F02299,MMT104514,Spice Jet,Premium Economy,1,179
+F02300,MMT104516,Indigo,Business,0,158
+F02301,MMT104517,Akasa Air Express,Business,1,157
+F02302,MMT104518,Spice Jet,Economy,0,96
+F02303,MMT104520,Indigo,Business,0,170
+F02304,MMT104522,Air India Express,Premium Economy,1,152
+F02305,MMT104524,Air India Express,Economy,0,209
+F02306,MMT104525,Air India Express,Economy,0,170
+F02307,MMT104529,Air India Express,Premium Economy,0,211
+F02308,MMT104530,Air India Express,Business,0,199
+F02309,MMT104531,Air India Express,Business,0,88
+F02310,MMT104533,Spice Jet,Economy,1,224
+F02311,MMT104534,Spice Jet,Business,0,133
+F02312,MMT104536,Air India Express,Premium Economy,0,179
+F02313,MMT104539,Air India Express,Economy,0,114
+F02314,MMT104540,Akasa Air Express,Economy,1,152
+F02315,MMT104541,Akasa Air Express,Business,0,193
+F02316,MMT104543,Indigo,Economy,1,227
+F02317,MMT104546,Spice Jet,Business,0,228
+F02318,MMT104550,Indigo,Economy,0,195
+F02319,MMT104554,Akasa Air Express,Economy,0,163
+F02320,MMT104558,Spice Jet,Premium Economy,0,170
+F02321,MMT104559,Spice Jet,Premium Economy,0,139
+F02322,MMT104560,Spice Jet,Economy,0,157
+F02323,MMT104561,Indigo,Economy,1,162
+F02324,MMT104563,Spice Jet,Economy,1,128
+F02325,MMT104565,Air India Express,Business,0,72
+F02326,MMT104567,Spice Jet,Economy,0,168
+F02327,MMT104570,Akasa Air Express,Economy,0,152
+F02328,MMT104572,Spice Jet,Economy,0,122
+F02329,MMT104574,Air India Express,Premium Economy,0,67
+F02330,MMT104575,Akasa Air Express,Economy,0,70
+F02331,MMT104576,Air India Express,Economy,0,132
+F02332,MMT104579,Air India Express,Economy,1,178
+F02333,MMT104580,Spice Jet,Economy,0,89
+F02334,MMT104581,Akasa Air Express,Economy,1,81
+F02335,MMT104585,Indigo,Economy,0,106
+F02336,MMT104586,Air India Express,Business,1,207
+F02337,MMT104587,Akasa Air Express,Premium Economy,0,63
+F02338,MMT104590,Spice Jet,Premium Economy,0,68
+F02339,MMT104592,Air India Express,Economy,0,228
+F02340,MMT104596,Spice Jet,Business,1,85
+F02341,MMT104600,Akasa Air Express,Premium Economy,2,117
+F02342,MMT104601,Spice Jet,Premium Economy,0,238
+F02343,MMT104602,Akasa Air Express,Business,0,170
+F02344,MMT104603,Indigo,Economy,1,206
+F02345,MMT104605,Indigo,Premium Economy,0,232
+F02346,MMT104606,Air India Express,Economy,0,194
+F02347,MMT104607,Akasa Air Express,Economy,0,183
+F02348,MMT104608,Spice Jet,Economy,0,198
+F02349,MMT104609,Indigo,Economy,1,226
+F02350,MMT104614,Air India Express,Economy,1,192
+F02351,MMT104615,Air India Express,Business,0,71
+F02352,MMT104616,Akasa Air Express,Business,2,113
+F02353,MMT104618,Spice Jet,Economy,0,136
+F02354,MMT104621,Spice Jet,Economy,0,68
+F02355,MMT104622,Air India Express,Economy,1,107
+F02356,MMT104624,Spice Jet,Economy,0,225
+F02357,MMT104626,Air India Express,Economy,1,70
+F02358,MMT104627,Air India Express,Economy,0,159
+F02359,MMT104628,Air India Express,Economy,0,181
+F02360,MMT104629,Air India Express,Premium Economy,0,153
+F02361,MMT104631,Indigo,Business,0,114
+F02362,MMT104633,Air India Express,Business,1,208
+F02363,MMT104634,Air India Express,Economy,1,193
+F02364,MMT104636,Air India Express,Premium Economy,0,65
+F02366,MMT104641,Spice Jet,Economy,1,156
+F02367,MMT104643,Air India Express,Economy,0,110
+F02368,MMT104644,Spice Jet,Premium Economy,0,122
+F02369,MMT104645,Indigo,Economy,0,128
+F02370,MMT104646,Air India Express,Economy,0,240
+F02371,MMT104647,Air India Express,Premium Economy,0,0
+F02372,MMT104648,Air India Express,Premium Economy,0,137
+F02373,MMT104649,Indigo,Business,1,64
+F02374,MMT104652,Indigo,Economy,0,140
+F02375,MMT104654,Akasa Air Express,Economy,0,84
+F02376,MMT104656,Indigo,Premium Economy,2,145
+F02377,MMT104657,Indigo,Economy,0,95
+F02378,MMT104658,Indigo,Premium Economy,0,79
+F02379,MMT104664,Spice Jet,Economy,0,71
+F02380,MMT104674,Akasa Air Express,Premium Economy,0,96
+F02381,MMT104675,Air India Express,Economy,0,207
+F02382,MMT104678,Indigo,Economy,2,176
+F02383,MMT104679,Indigo,Economy,0,133
+F02384,MMT104680,Air India Express,Business,0,179
+F02385,MMT104684,Spice Jet,Business,1,198
+F02386,MMT104686,Spice Jet,Business,2,152
+F02387,MMT104687,Akasa Air Express,Business,0,177
+F02388,MMT104689,Indigo,Economy,0,94
+F02389,MMT104696,Air India Express,Economy,0,208
+F02391,MMT104702,Spice Jet,Business,0,219
+F02392,MMT104703,Akasa Air Express,Economy,0,123
+F02393,MMT104706,Air India Express,Economy,0,125
+F02394,MMT104708,Air India Express,Premium Economy,0,154
+F02395,MMT104709,Spice Jet,Economy,0,114
+F02396,MMT104710,Air India Express,Business,0,157
+F02397,MMT104713,Spice Jet,Economy,0,117
+F02398,MMT104714,Air India Express,Economy,0,160
+F02399,MMT104718,Air India Express,Premium Economy,0,130
+F02400,MMT104720,Spice Jet,Economy,0,118
+F02401,MMT104725,Akasa Air Express,Economy,0,0
+F02402,MMT104726,Akasa Air Express,Premium Economy,1,218
+F02403,MMT104732,Akasa Air Express,Economy,0,193
+F02404,MMT104734,Spice Jet,Economy,0,142
+F02405,MMT104736,Air India Express,Business,0,130
+F02406,MMT104737,Air India Express,Economy,0,214
+F02407,MMT104741,Air India Express,Business,0,220
+F02408,MMT104742,Air India Express,Economy,1,110
+F02409,MMT104744,Akasa Air Express,Business,0,113
+F02410,MMT104746,Indigo,Premium Economy,0,73
+F02411,MMT104751,Akasa Air Express,Economy,0,139
+F02412,MMT104753,Spice Jet,Premium Economy,0,101
+F02413,MMT104754,Air India Express,Premium Economy,0,96
+F02414,MMT104756,Spice Jet,Economy,0,232
+F02415,MMT104757,Indigo,Economy,0,171
+F02416,MMT104758,Indigo,Economy,2,234
+F02417,MMT104760,Indigo,Economy,1,65
+F02418,MMT104761,Akasa Air Express,Economy,0,78
+F02419,MMT104763,Air India Express,Business,1,153
+F02420,MMT104764,Akasa Air Express,Economy,0,110
+F02421,MMT104765,Air India Express,Economy,0,234
+F02422,MMT104768,Akasa Air Express,Business,0,229
+F02423,MMT104769,Air India Express,Economy,1,106
+F02424,MMT104771,Akasa Air Express,Economy,1,181
+F02425,MMT104772,Spice Jet,Business,0,235
+F02426,MMT104774,Air India Express,Economy,1,146
+F02427,MMT104775,Air India Express,Premium Economy,0,65
+F02428,MMT104777,Air India Express,Premium Economy,0,227
+F02429,MMT104779,Air India Express,Economy,0,86
+F02430,MMT104782,Akasa Air Express,Economy,0,118
+F02431,MMT104784,Air India Express,Business,0,62
+F02432,MMT104786,Air India Express,Premium Economy,0,156
+F02433,MMT104787,Indigo,Economy,1,153
+F02434,MMT104792,Indigo,Economy,0,240
+F02435,MMT104794,Indigo,Economy,0,126
+F02436,MMT104795,Akasa Air Express,Economy,1,159
+F02437,MMT104796,Air India Express,Business,1,73
+F02438,MMT104797,Air India Express,Economy,0,141
+F02439,MMT104800,Spice Jet,Premium Economy,0,107
+F02440,MMT104801,Spice Jet,Business,0,176
+F02441,MMT104802,Air India Express,Business,1,171
+F02442,MMT104805,Akasa Air Express,Premium Economy,0,168
+F02443,MMT104809,Spice Jet,Premium Economy,2,157
+F02444,MMT104813,Air India Express,Economy,0,93
+F02445,MMT104815,Air India Express,Economy,0,197
+F02446,MMT104816,Akasa Air Express,Economy,0,73
+F02447,MMT104820,Air India Express,Economy,2,105
+F02448,MMT104821,Air India Express,Economy,0,68
+F02449,MMT104823,Spice Jet,Business,0,232
+F02450,MMT104824,Akasa Air Express,Economy,0,155
+F02451,MMT104826,Air India Express,Economy,0,189
+F02452,MMT104829,Air India Express,Economy,0,182
+F02453,MMT104830,Spice Jet,Premium Economy,0,233
+F02454,MMT104831,Air India Express,Economy,1,183
+F02455,MMT104833,Spice Jet,Economy,0,62
+F02456,MMT104838,Air India Express,Premium Economy,1,166
+F02457,MMT104839,Air India Express,Premium Economy,1,146
+F02458,MMT104840,Air India Express,Economy,0,96
+F02459,MMT104844,Akasa Air Express,Economy,0,165
+F02460,MMT104851,Indigo,Economy,1,107
+F02461,MMT104854,Air India Express,Economy,1,134
+F02462,MMT104855,Akasa Air Express,Economy,1,112
+F02463,MMT104857,Spice Jet,Business,2,143
+F02464,MMT104858,Air India Express,Business,1,119
+F02465,MMT104859,Indigo,Economy,0,231
+F02466,MMT104862,Air India Express,Economy,0,161
+F02467,MMT104863,Indigo,Business,1,136
+F02468,MMT104865,Air India Express,Premium Economy,0,203
+F02469,MMT104867,Akasa Air Express,Premium Economy,1,97
+F02470,MMT104868,Akasa Air Express,Premium Economy,1,112
+F02471,MMT104870,Air India Express,Economy,1,186
+F02472,MMT104871,Air India Express,Economy,0,113
+F02473,MMT104873,Air India Express,Business,0,190
+F02474,MMT104874,Air India Express,Premium Economy,0,131
+F02475,MMT104876,Indigo,Economy,0,101
+F02476,MMT104881,Spice Jet,Economy,0,114
+F02477,MMT104882,Indigo,Economy,0,170
+F02478,MMT104884,Air India Express,Economy,0,234
+F02479,MMT104886,Spice Jet,Economy,0,110
+F02480,MMT104887,Indigo,Economy,1,111
+F02481,MMT104889,Indigo,Business,0,139
+F02482,MMT104892,Air India Express,Business,0,107
+F02483,MMT104893,Air India Express,Economy,1,79
+F02484,MMT104896,Akasa Air Express,Business,0,82
+F02485,MMT104897,Air India Express,Economy,0,229
+F02486,MMT104898,Air India Express,Business,1,96
+F02487,MMT104899,Spice Jet,Economy,0,186
+F02488,MMT104901,Akasa Air Express,Economy,0,229
+F02489,MMT104902,Air India Express,Economy,2,89
+F02490,MMT104903,Akasa Air Express,Economy,0,179
+F02491,MMT104904,Indigo,Business,0,
+F02492,MMT104905,Akasa Air Express,Premium Economy,0,95
+F02493,MMT104906,Air India Express,Business,0,240
+F02494,MMT104909,Spice Jet,Economy,0,230
+F02495,MMT104910,Air India Express,Economy,0,124
+F02496,MMT104912,Air India Express,Economy,0,107
+F02497,MMT104914,Spice Jet,Economy,1,197
+F02498,MMT104915,Air India Express,Business,0,122
+F02499,MMT104919,Air India Express,Business,2,138
+F02500,MMT104920,Air India Express,Business,0,0
+F02501,MMT104921,Spice Jet,Economy,0,142
+F02502,MMT104922,Akasa Air Express,Economy,0,92
+F02503,MMT104923,Air India Express,Economy,0,224
+F02504,MMT104924,Spice Jet,Premium Economy,0,61
+F02505,MMT104926,Air India Express,Economy,0,60
+F02506,MMT104929,Air India Express,Business,1,161
+F02507,MMT104930,Air India Express,Economy,0,91
+F02508,MMT104932,Air India Express,Economy,0,151
+F02509,MMT104933,Spice Jet,Economy,0,207
+F02510,MMT104935,Akasa Air Express,Business,0,99
+F02511,MMT104943,Akasa Air Express,Economy,0,161
+F02512,MMT104944,Spice Jet,Premium Economy,0,67
+F02513,MMT104945,Akasa Air Express,Economy,1,149
+F02514,MMT104947,Air India Express,Economy,0,147
+F02515,MMT104948,Spice Jet,Economy,0,91
+F02516,MMT104950,Spice Jet,Economy,0,216
+F02517,MMT104951,Indigo,Economy,2,123
+F02518,MMT104952,Akasa Air Express,Business,0,64
+F02519,MMT104954,Akasa Air Express,Business,1,136
+F02520,MMT104955,Indigo,Premium Economy,0,87
+F02521,MMT104956,Akasa Air Express,Premium Economy,0,117
+F02522,MMT104959,Air India Express,Economy,1,90
+F02523,MMT104960,Indigo,Economy,1,145
+F02524,MMT104961,Air India Express,Premium Economy,0,193
+F02525,MMT104963,Akasa Air Express,Economy,1,154
+F02526,MMT104964,Akasa Air Express,Business,0,74
+F02527,MMT104966,Indigo,Economy,0,212
+F02528,MMT104967,Air India Express,Business,0,212
+F02530,MMT104972,Spice Jet,Economy,0,131
+F02531,MMT104974,Air India Express,Economy,1,135
+F02532,MMT104975,Indigo,Business,0,226
+F02533,MMT104976,Indigo,Premium Economy,1,190
+F02534,MMT104983,Akasa Air Express,Economy,0,147
+F02535,MMT104985,Akasa Air Express,Economy,0,158
+F02536,MMT104986,Indigo,Economy,0,225
+F02537,MMT104987,Akasa Air Express,Premium Economy,2,87
+F02538,MMT104988,Akasa Air Express,Business,2,239
+F02539,MMT104989,Indigo,Economy,0,129
+F02540,MMT104991,Akasa Air Express,Economy,0,67
+F02541,MMT104992,Akasa Air Express,Economy,2,92
+F02542,MMT104993,Air India Express,Premium Economy,1,61
+F02543,MMT104994,Spice Jet,Economy,0,74
+F02544,MMT104996,Akasa Air Express,Business,0,62
+F02545,MMT104998,Air India Express,Economy,0,155
+F02546,MMT104999,Air India Express,Economy,1,100
+F02547,MMT105000,Indigo,Economy,1,101
+F02548,MMT105001,Indigo,Economy,0,
+F02549,MMT105002,Spice Jet,Economy,0,100
+F02550,MMT105003,Indigo,Business,0,79
+F02551,MMT105006,Akasa Air Express,Economy,0,203
+F02552,MMT105007,Air India Express,Premium Economy,2,194
+F02553,MMT105009,Air India Express,Economy,0,175
+F02554,MMT105011,Spice Jet,Premium Economy,1,218
+F02555,MMT105016,Air India Express,Premium Economy,0,83
+F02556,MMT105017,Indigo,Economy,2,118
+F02557,MMT105018,Akasa Air Express,Business,1,86
+F02558,MMT105020,Spice Jet,Business,0,111
+F02559,MMT105024,Indigo,Business,0,186
+F02560,MMT105027,Akasa Air Express,Premium Economy,1,140
+F02561,MMT105032,Akasa Air Express,Economy,0,
+F02562,MMT105036,Air India Express,Business,0,160
+F02563,MMT105037,Air India Express,Economy,0,117
+F02564,MMT105044,Air India Express,Business,0,213
+F02565,MMT105045,Akasa Air Express,Economy,0,181
+F02566,MMT105046,Akasa Air Express,Business,0,100
+F02567,MMT105047,Spice Jet,Economy,0,77
+F02568,MMT105049,Indigo,Economy,0,85
+F02569,MMT105050,Air India Express,Economy,0,234
+F02570,MMT105052,Indigo,Economy,0,198
+F02571,MMT105053,Air India Express,Premium Economy,0,174
+F02572,MMT105056,Akasa Air Express,Business,0,229
+F02573,MMT105059,Air India Express,Economy,0,65
+F02574,MMT105060,Akasa Air Express,Business,0,156
+F02575,MMT105062,Air India Express,Business,1,92
+F02576,MMT105064,Akasa Air Express,Economy,2,198
+F02577,MMT105067,Akasa Air Express,Economy,0,191
+F02578,MMT105068,Air India Express,Business,0,89
+F02579,MMT105070,Spice Jet,Economy,0,73
+F02580,MMT105073,Akasa Air Express,Economy,2,83
+F02581,MMT105078,Air India Express,Business,0,111
+F02582,MMT105081,Spice Jet,Economy,1,176
+F02583,MMT105085,Spice Jet,Premium Economy,0,232
+F02584,MMT105089,Spice Jet,Economy,1,236
+F02585,MMT105090,Akasa Air Express,Economy,0,129
+F02586,MMT105091,Indigo,Economy,0,100
+F02587,MMT105092,Akasa Air Express,Economy,1,169
+F02588,MMT105093,Indigo,Business,0,227
+F02589,MMT105099,Air India Express,Premium Economy,1,111
+F02590,MMT105101,Air India Express,Economy,0,153
+F02591,MMT105102,Spice Jet,Economy,0,152
+F02592,MMT105103,Air India Express,Premium Economy,0,199
+F02593,MMT105106,Spice Jet,Economy,0,102
+F02594,MMT105107,Indigo,Premium Economy,0,158
+F02595,MMT105109,Indigo,Business,0,156
+F02596,MMT105110,Air India Express,Economy,1,135
+F02597,MMT105111,Air India Express,Economy,1,186
+F02598,MMT105112,Akasa Air Express,Premium Economy,0,230
+F02599,MMT105113,Spice Jet,Economy,0,82
+F02600,MMT105114,Air India Express,Economy,0,66
+F02601,MMT105115,Air India Express,Economy,0,155
+F02602,MMT105118,Air India Express,Business,0,104
+F02603,MMT105119,Air India Express,Premium Economy,0,143
+F02604,MMT105120,Akasa Air Express,Economy,0,197
+F02605,MMT105122,Air India Express,Business,0,
+F02606,MMT105124,Spice Jet,Economy,1,179
+F02607,MMT105125,Indigo,Premium Economy,1,226
+F02608,MMT105126,Air India Express,Economy,0,164
+F02609,MMT105127,Air India Express,Premium Economy,0,233
+F02610,MMT105128,Spice Jet,Premium Economy,0,93
+F02611,MMT105129,Air India Express,Economy,1,194
+F02612,MMT105132,Akasa Air Express,Economy,0,203
+F02613,MMT105134,Indigo,Economy,0,197
+F02614,MMT105135,Spice Jet,Premium Economy,1,189
+F02615,MMT105137,Akasa Air Express,Economy,0,92
+F02616,MMT105139,Indigo,Economy,0,99
+F02617,MMT105140,Akasa Air Express,Premium Economy,1,0
+F02618,MMT105143,Air India Express,Economy,1,119
+F02619,MMT105144,Indigo,Economy,0,149
+F02620,MMT105147,Akasa Air Express,Economy,1,217
+F02621,MMT105148,Spice Jet,Economy,1,87
+F02622,MMT105150,Indigo,Premium Economy,0,136
+F02623,MMT105151,Spice Jet,Economy,0,177
+F02624,MMT105153,Akasa Air Express,Premium Economy,0,116
+F02625,MMT105156,Indigo,Economy,0,168
+F02626,MMT105157,Air India Express,Economy,1,153
+F02628,MMT105161,Air India Express,Economy,0,217
+F02629,MMT105162,Air India Express,Business,0,102
+F02630,MMT105164,Air India Express,Business,0,81
+F02631,MMT105165,Air India Express,Business,1,121
+F02632,MMT105167,Air India Express,Business,0,203
+F02633,MMT105168,Air India Express,Economy,1,102
+F02634,MMT105170,Spice Jet,Economy,0,144
+F02635,MMT105172,Indigo,Business,0,198
+F02636,MMT105173,Indigo,Economy,0,71
+F02637,MMT105174,Air India Express,Economy,2,79
+F02638,MMT105175,Air India Express,Economy,0,117
+F02639,MMT105179,Air India Express,Economy,1,140
+F02640,MMT105180,Air India Express,Economy,0,200
+F02641,MMT105181,Indigo,Business,0,114
+F02642,MMT105186,Indigo,Premium Economy,0,167
+F02643,MMT105189,Indigo,Business,0,88
+F02644,MMT105195,Akasa Air Express,Premium Economy,0,100
+F02645,MMT105196,Air India Express,Premium Economy,1,141
+F02646,MMT105197,Akasa Air Express,Economy,0,189
+F02647,MMT105198,Air India Express,Business,1,111
+F02648,MMT105199,Spice Jet,Business,0,103
+F02649,MMT105200,Indigo,Premium Economy,1,190
+F02650,MMT105201,Akasa Air Express,Economy,0,60
+F02651,MMT105204,Akasa Air Express,Economy,0,228
+F02652,MMT105206,Spice Jet,Economy,0,75
+F02653,MMT105207,Akasa Air Express,Premium Economy,0,139
+F02654,MMT105211,Spice Jet,Economy,1,108
+F02655,MMT105219,Air India Express,Economy,0,109
+F02656,MMT105222,Indigo,Economy,0,148
+F02657,MMT105227,Indigo,Business,0,189
+F02658,MMT105228,Air India Express,Business,0,92
+F02659,MMT105233,Akasa Air Express,Business,0,187
+F02660,MMT105234,Air India Express,Business,1,229
+F02661,MMT105236,Air India Express,Premium Economy,0,211
+F02662,MMT105237,Indigo,Economy,1,143
+F02663,MMT105239,Spice Jet,Economy,2,105
+F02664,MMT105241,Akasa Air Express,Premium Economy,0,164
+F02665,MMT105243,Air India Express,Business,0,127
+F02666,MMT105246,Air India Express,Business,0,99
+F02667,MMT105252,Air India Express,Economy,2,240
+F02668,MMT105253,Akasa Air Express,Economy,0,201
+F02669,MMT105254,Akasa Air Express,Economy,0,231
+F02670,MMT105255,Akasa Air Express,Premium Economy,0,205
+F02671,MMT105256,Akasa Air Express,Business,0,236
+F02672,MMT105258,Air India Express,Economy,0,173
+F02673,MMT105261,Spice Jet,Premium Economy,0,185
+F02674,MMT105262,Air India Express,Economy,0,157
+F02675,MMT105264,Akasa Air Express,Economy,0,214
+F02676,MMT105265,Air India Express,Economy,1,158
+F02677,MMT105267,Air India Express,Economy,2,67
+F02678,MMT105268,Akasa Air Express,Economy,0,85
+F02679,MMT105269,Indigo,Economy,0,114
+F02680,MMT105270,Air India Express,Business,1,122
+F02681,MMT105271,Spice Jet,Economy,0,80
+F02682,MMT105272,Indigo,Economy,0,178
+F02683,MMT105273,Air India Express,Business,0,115
+F02684,MMT105276,Air India Express,Business,0,209
+F02685,MMT105278,Indigo,Economy,0,111
+F02686,MMT105279,Air India Express,Premium Economy,0,169
+F02687,MMT105280,Air India Express,Business,0,158
+F02688,MMT105281,Air India Express,Business,0,164
+F02689,MMT105282,Air India Express,Premium Economy,0,103
+F02690,MMT105286,Indigo,Economy,2,130
+F02691,MMT105287,Air India Express,Business,0,76
+F02692,MMT105289,Air India Express,Economy,0,81
+F02693,MMT105290,Akasa Air Express,Business,1,150
+F02694,MMT105291,Akasa Air Express,Economy,1,0
+F02695,MMT105292,Air India Express,Premium Economy,0,152
+F02696,MMT105293,Air India Express,Economy,0,115
+F02697,MMT105297,Air India Express,Premium Economy,0,67
+F02698,MMT105298,Air India Express,Economy,1,230
+F02699,MMT105299,Air India Express,Economy,1,68
+F02700,MMT105300,Indigo,Economy,0,233
+F02701,MMT105302,Air India Express,Economy,0,127
+F02702,MMT105303,Air India Express,Economy,2,81
+F02703,MMT105304,Air India Express,Economy,0,70
+F02704,MMT105306,Air India Express,Premium Economy,1,124
+F02705,MMT105308,Air India Express,Business,0,224
+F02706,MMT105309,Air India Express,Business,0,68
+F02708,MMT105314,Air India Express,Economy,0,189
+F02709,MMT105315,Akasa Air Express,Premium Economy,0,77
+F02710,MMT105316,Air India Express,Economy,0,95
+F02711,MMT105318,Air India Express,Economy,1,97
+F02712,MMT105321,Air India Express,Economy,0,79
+F02713,MMT105322,Akasa Air Express,Economy,1,193
+F02714,MMT105324,Akasa Air Express,Economy,0,142
+F02715,MMT105326,Indigo,Economy,0,0
+F02716,MMT105327,Spice Jet,Economy,1,109
+F02717,MMT105328,Spice Jet,Premium Economy,0,129
+F02718,MMT105329,Spice Jet,Economy,0,79
+F02719,MMT105332,Air India Express,Economy,0,95
+F02720,MMT105335,Indigo,Economy,1,62
+F02721,MMT105336,Indigo,Economy,1,139
+F02722,MMT105339,Indigo,Economy,0,177
+F02723,MMT105341,Air India Express,Economy,0,215
+F02724,MMT105342,Akasa Air Express,Economy,0,166
+F02725,MMT105343,Spice Jet,Premium Economy,0,73
+F02726,MMT105346,Spice Jet,Premium Economy,1,183
+F02727,MMT105348,Air India Express,Economy,0,109
+F02728,MMT105349,Akasa Air Express,Economy,1,153
+F02729,MMT105357,Akasa Air Express,Economy,0,124
+F02730,MMT105358,Indigo,Economy,0,78
+F02731,MMT105359,Air India Express,Business,0,131
+F02733,MMT105362,Air India Express,Economy,0,98
+F02734,MMT105365,Spice Jet,Business,0,155
+F02735,MMT105366,Air India Express,Economy,1,106
+F02736,MMT105368,Akasa Air Express,Economy,0,233
+F02737,MMT105371,Air India Express,Premium Economy,0,97
+F02738,MMT105372,Air India Express,Economy,0,61
+F02739,MMT105373,Indigo,Economy,0,106
+F02740,MMT105374,Spice Jet,Economy,0,146
+F02741,MMT105380,Spice Jet,Premium Economy,1,142
+F02742,MMT105381,Spice Jet,Premium Economy,0,187
+F02743,MMT105382,Spice Jet,Economy,0,227
+F02744,MMT105383,Akasa Air Express,Economy,0,134
+F02745,MMT105384,Air India Express,Economy,1,136
+F02746,MMT105385,Indigo,Economy,1,146
+F02747,MMT105386,Indigo,Business,1,214
+F02748,MMT105388,Air India Express,Economy,0,95
+F02749,MMT105390,Air India Express,Economy,0,64
+F02750,MMT105391,Indigo,Economy,1,105
+F02751,MMT105396,Air India Express,Premium Economy,0,72
+F02752,MMT105397,Spice Jet,Premium Economy,0,189
+F02753,MMT105398,Indigo,Economy,0,212
+F02754,MMT105399,Air India Express,Economy,2,186
+F02755,MMT105400,Air India Express,Economy,1,190
+F02756,MMT105402,Indigo,Economy,1,122
+F02757,MMT105405,Akasa Air Express,Economy,0,201
+F02758,MMT105406,Air India Express,Premium Economy,0,220
+F02759,MMT105408,Air India Express,Economy,0,177
+F02760,MMT105410,Spice Jet,Economy,1,80
+F02761,MMT105415,Air India Express,Economy,0,174
+F02762,MMT105416,Air India Express,Economy,1,205
+F02763,MMT105425,Indigo,Premium Economy,0,182
+F02764,MMT105427,Air India Express,Business,0,177
+F02765,MMT105429,Air India Express,Premium Economy,2,74
+F02766,MMT105431,Air India Express,Economy,2,145
+F02767,MMT105436,Akasa Air Express,Economy,1,119
+F02768,MMT105440,Air India Express,Premium Economy,0,161
+F02769,MMT105441,Indigo,Premium Economy,0,172
+F02770,MMT105444,Indigo,Economy,0,64
+F02771,MMT105446,Air India Express,Business,0,214
+F02772,MMT105447,Spice Jet,Premium Economy,0,195
+F02773,MMT105453,Akasa Air Express,Economy,0,181
+F02774,MMT105454,Akasa Air Express,Economy,0,212
+F02775,MMT105455,Air India Express,Economy,2,83
+F02776,MMT105457,Spice Jet,Business,0,140
+F02777,MMT105459,Indigo,Economy,0,103
+F02778,MMT105460,Akasa Air Express,Economy,0,139
+F02779,MMT105463,Indigo,Business,1,186
+F02780,MMT105464,Spice Jet,Premium Economy,0,176
+F02781,MMT105466,Akasa Air Express,Economy,1,97
+F02782,MMT105468,Akasa Air Express,Economy,1,188
+F02783,MMT105470,Indigo,Economy,0,203
+F02784,MMT105474,Air India Express,Economy,0,206
+F02785,MMT105477,Air India Express,Economy,0,175
+F02786,MMT105478,Indigo,Economy,0,107
+F02787,MMT105479,Air India Express,Economy,1,82
+F02788,MMT105482,Akasa Air Express,Economy,0,219
+F02789,MMT105485,Indigo,Economy,0,229
+F02790,MMT105489,Indigo,Economy,0,183
+F02791,MMT105492,Akasa Air Express,Economy,1,99
+F02792,MMT105498,Air India Express,Economy,0,146
+F02793,MMT105507,Air India Express,Business,0,196
+F02794,MMT105508,Air India Express,Premium Economy,0,155
+F02795,MMT105510,Air India Express,Economy,0,91
+F02796,MMT105511,Spice Jet,Business,0,81
+F02797,MMT105512,Indigo,Economy,0,177
+F02798,MMT105515,Air India Express,Economy,0,209
+F02799,MMT105516,Air India Express,Business,0,67
+F02800,MMT105517,Air India Express,Premium Economy,1,210
+F02801,MMT105518,Air India Express,Economy,1,154
+F02802,MMT105519,Air India Express,Business,0,116
+F02803,MMT105523,Air India Express,Economy,0,98
+F02804,MMT105528,Indigo,Premium Economy,0,159
+F02805,MMT105536,Air India Express,Economy,0,239
+F02806,MMT105539,Akasa Air Express,Economy,0,228
+F02807,MMT105541,Akasa Air Express,Economy,1,139
+F02808,MMT105544,Air India Express,Economy,0,85
+F02809,MMT105545,Air India Express,Economy,0,67
+F02810,MMT105546,Indigo,Economy,0,75
+F02811,MMT105547,Indigo,Business,0,191
+F02812,MMT105548,Air India Express,Premium Economy,0,64
+F02813,MMT105549,Air India Express,Economy,0,131
+F02814,MMT105551,Indigo,Economy,0,121
+F02815,MMT105554,Spice Jet,Business,0,207
+F02816,MMT105558,Air India Express,Economy,0,199
+F02817,MMT105559,Indigo,Economy,0,235
+F02818,MMT105560,Akasa Air Express,Business,0,221
+F02819,MMT105561,Air India Express,Economy,0,171
+F02820,MMT105562,Air India Express,Economy,1,193
+F02821,MMT105564,Air India Express,Economy,0,228
+F02822,MMT105566,Akasa Air Express,Premium Economy,0,144
+F02823,MMT105567,Spice Jet,Premium Economy,2,0
+F02824,MMT105568,Indigo,Business,0,216
+F02825,MMT105569,Air India Express,Business,0,149
+F02826,MMT105572,Indigo,Premium Economy,0,103
+F02827,MMT105573,Spice Jet,Business,1,239
+F02828,MMT105575,Spice Jet,Premium Economy,0,113
+F02829,MMT105578,Indigo,Economy,0,238
+F02830,MMT105579,Air India Express,Economy,0,79
+F02831,MMT105582,Spice Jet,Economy,0,213
+F02832,MMT105584,Air India Express,Economy,0,204
+F02833,MMT105586,Indigo,Economy,1,130
+F02834,MMT105587,Air India Express,Economy,0,99
+F02835,MMT105588,Air India Express,Economy,0,126
+F02836,MMT105589,Indigo,Economy,0,164
+F02837,MMT105593,Spice Jet,Economy,0,60
+F02838,MMT105595,Akasa Air Express,Economy,0,62
+F02839,MMT105597,Air India Express,Economy,0,101
+F02840,MMT105599,Akasa Air Express,Economy,0,135
+F02841,MMT105603,Air India Express,Business,0,62
+F02842,MMT105604,Spice Jet,Economy,1,185
+F02843,MMT105608,Air India Express,Business,1,233
+F02844,MMT105611,Akasa Air Express,Business,2,216
+F02845,MMT105615,Spice Jet,Economy,0,165
+F02846,MMT105616,Akasa Air Express,Economy,1,189
+F02847,MMT105617,Indigo,Business,0,214
+F02848,MMT105621,Air India Express,Economy,0,115
+F02849,MMT105622,Akasa Air Express,Economy,1,182
+F02850,MMT105627,Air India Express,Economy,0,188
+F02851,MMT105628,Spice Jet,Business,0,133
+F02852,MMT105629,Indigo,Premium Economy,0,101
+F02853,MMT105630,Spice Jet,Economy,1,235
+F02854,MMT105632,Spice Jet,Business,2,121
+F02855,MMT105633,Akasa Air Express,Business,0,133
+F02856,MMT105636,Spice Jet,Economy,0,117
+F02857,MMT105638,Air India Express,Business,0,76
+F02858,MMT105639,Akasa Air Express,Economy,0,197
+F02860,MMT105643,Akasa Air Express,Premium Economy,0,119
+F02861,MMT105646,Air India Express,Economy,2,228
+F02862,MMT105648,Akasa Air Express,Business,0,189
+F02863,MMT105650,Indigo,Premium Economy,1,97
+F02864,MMT105653,Air India Express,Economy,0,211
+F02865,MMT105655,Air India Express,Premium Economy,0,152
+F02866,MMT105659,Air India Express,Economy,0,211
+F02867,MMT105662,Spice Jet,Premium Economy,0,115
+F02868,MMT105666,Air India Express,Business,1,106
+F02869,MMT105667,Akasa Air Express,Business,1,225
+F02871,MMT105675,Air India Express,Business,0,89
+F02872,MMT105677,Indigo,Economy,0,113
+F02873,MMT105678,Air India Express,Business,0,125
+F02874,MMT105680,Air India Express,Economy,0,70
+F02875,MMT105681,Akasa Air Express,Business,0,85
+F02876,MMT105683,Air India Express,Business,1,115
+F02877,MMT105685,Air India Express,Economy,1,63
+F02878,MMT105686,Indigo,Economy,0,82
+F02879,MMT105692,Spice Jet,Premium Economy,0,85
+F02880,MMT105693,Akasa Air Express,Economy,0,142
+F02881,MMT105696,Akasa Air Express,Premium Economy,1,132
+F02882,MMT105697,Spice Jet,Premium Economy,0,167
+F02883,MMT105698,Indigo,Economy,0,145
+F02884,MMT105699,Air India Express,Economy,1,104
+F02885,MMT105700,Akasa Air Express,Economy,2,110
+F02886,MMT105702,Air India Express,Economy,0,157
+F02887,MMT105703,Indigo,Business,1,150
+F02888,MMT105708,Akasa Air Express,Premium Economy,0,236
+F02889,MMT105709,Indigo,Premium Economy,0,79
+F02890,MMT105710,Air India Express,Premium Economy,0,0
+F02891,MMT105713,Indigo,Economy,0,129
+F02892,MMT105714,Air India Express,Premium Economy,0,232
+F02893,MMT105716,Akasa Air Express,Business,1,168
+F02894,MMT105717,Spice Jet,Premium Economy,1,112
+F02895,MMT105718,Air India Express,Business,0,159
+F02896,MMT105719,Spice Jet,Economy,1,185
+F02897,MMT105720,Akasa Air Express,Premium Economy,0,236
+F02898,MMT105721,Akasa Air Express,Business,1,122
+F02899,MMT105723,Air India Express,Economy,1,126
+F02900,MMT105724,Indigo,Economy,0,230
+F02901,MMT105725,Air India Express,Economy,0,168
+F02902,MMT105726,Air India Express,Economy,1,235
+F02903,MMT105728,Air India Express,Economy,0,91
+F02904,MMT105730,Akasa Air Express,Economy,1,62
+F02905,MMT105733,Spice Jet,Economy,1,145
+F02906,MMT105734,Air India Express,Economy,0,207
+F02907,MMT105735,Indigo,Premium Economy,0,130
+F02908,MMT105736,Spice Jet,Economy,2,172
+F02909,MMT105739,Indigo,Premium Economy,1,123
+F02910,MMT105740,Spice Jet,Economy,0,
+F02911,MMT105741,Air India Express,Economy,1,99
+F02912,MMT105743,Akasa Air Express,Economy,0,100
+F02913,MMT105745,Air India Express,Economy,0,208
+F02914,MMT105750,Air India Express,Business,0,235
+F02915,MMT105751,Indigo,Economy,0,232
+F02916,MMT105754,Indigo,Economy,1,146
+F02917,MMT105755,Spice Jet,Economy,0,91
+F02918,MMT105757,Air India Express,Economy,0,107
+F02919,MMT105758,Air India Express,Premium Economy,0,105
+F02920,MMT105760,Air India Express,Economy,0,80
+F02921,MMT105765,Air India Express,Economy,1,182
+F02922,MMT105767,Spice Jet,Premium Economy,2,95
+F02923,MMT105771,Air India Express,Economy,0,227
+F02924,MMT105773,Akasa Air Express,Economy,0,213
+F02925,MMT105775,Spice Jet,Economy,0,133
+F02926,MMT105777,Air India Express,Business,1,120
+F02927,MMT105778,Air India Express,Economy,0,82
+F02928,MMT105782,Air India Express,Premium Economy,0,146
+F02929,MMT105784,Akasa Air Express,Economy,0,
+F02930,MMT105790,Air India Express,Economy,0,171
+F02931,MMT105792,Indigo,Business,1,189
+F02932,MMT105793,Air India Express,Economy,1,223
+F02933,MMT105794,Spice Jet,Business,1,223
+F02934,MMT105795,Air India Express,Economy,0,207
+F02935,MMT105796,Spice Jet,Economy,0,165
+F02936,MMT105799,Indigo,Business,0,201
+F02937,MMT105800,Indigo,Economy,0,87
+F02938,MMT105804,Akasa Air Express,Business,0,75
+F02939,MMT105805,Air India Express,Economy,0,161
+F02940,MMT105806,Air India Express,Premium Economy,0,162
+F02941,MMT105811,Air India Express,Business,1,78
+F02942,MMT105812,Air India Express,Economy,1,76
+F02944,MMT105814,Akasa Air Express,Economy,0,148
+F02945,MMT105818,Spice Jet,Economy,0,224
+F02946,MMT105821,Indigo,Economy,0,93
+F02947,MMT105828,Akasa Air Express,Premium Economy,0,77
+F02948,MMT105829,Indigo,Economy,0,85
+F02949,MMT105831,Air India Express,Business,1,112
+F02950,MMT105835,Spice Jet,Business,0,218
+F02951,MMT105837,Air India Express,Business,0,194
+F02952,MMT105839,Air India Express,Business,0,95
+F02953,MMT105840,Akasa Air Express,Economy,0,220
+F02954,MMT105841,Akasa Air Express,Economy,0,175
+F02955,MMT105842,Akasa Air Express,Economy,0,139
+F02956,MMT105845,Air India Express,Premium Economy,0,218
+F02957,MMT105851,Indigo,Premium Economy,0,176
+F02958,MMT105853,Air India Express,Premium Economy,0,93
+F02959,MMT105855,Air India Express,Business,0,128
+F02960,MMT105856,Indigo,Economy,0,215
+F02961,MMT105857,Akasa Air Express,Economy,0,76
+F02962,MMT105858,Air India Express,Economy,0,82
+F02963,MMT105860,Air India Express,Economy,0,97
+F02964,MMT105861,Spice Jet,Economy,0,183
+F02965,MMT105862,Spice Jet,Premium Economy,1,141
+F02966,MMT105864,Indigo,Business,0,171
+F02967,MMT105874,Air India Express,Business,0,164
+F02968,MMT105878,Air India Express,Economy,0,0
+F02969,MMT105880,Indigo,Economy,0,76
+F02970,MMT105881,Indigo,Economy,1,60
+F02971,MMT105882,Spice Jet,Economy,0,98
+F02972,MMT105884,Air India Express,Business,0,168
+F02973,MMT105885,Indigo,Economy,1,104
+F02974,MMT105887,Indigo,Economy,2,189
+F02975,MMT105890,Indigo,Premium Economy,1,156
+F02976,MMT105891,Akasa Air Express,Economy,0,170
+F02977,MMT105893,Akasa Air Express,Economy,0,112
+F02978,MMT105894,Air India Express,Business,0,180
+F02979,MMT105897,Indigo,Economy,0,91
+F02980,MMT105899,Air India Express,Economy,0,218
+F02981,MMT105900,Akasa Air Express,Business,0,229
+F02982,MMT105901,Air India Express,Premium Economy,0,155
+F02983,MMT105903,Spice Jet,Economy,0,236
+F02984,MMT105904,Indigo,Economy,2,135
+F02985,MMT105905,Akasa Air Express,Business,0,217
+F02986,MMT105908,Air India Express,Business,1,165
+F02987,MMT105913,Akasa Air Express,Business,0,191
+F02988,MMT105916,Air India Express,Business,0,140
+F02989,MMT105918,Air India Express,Economy,0,109
+F02990,MMT105919,Air India Express,Business,0,215
+F02991,MMT105920,Indigo,Economy,1,149
+F02992,MMT105922,Akasa Air Express,Premium Economy,0,178
+F02993,MMT105924,Akasa Air Express,Economy,0,153
+F02994,MMT105925,Indigo,Economy,2,195
+F02995,MMT105933,Akasa Air Express,Business,0,204
+F02996,MMT105934,Air India Express,Economy,0,203
+F02997,MMT105936,Air India Express,Business,0,200
+F02998,MMT105938,Air India Express,Business,1,171
+F02999,MMT105939,Air India Express,Economy,0,157
+F03000,MMT105941,Spice Jet,Economy,0,151
+F03001,MMT105942,Akasa Air Express,Economy,1,138
+F03002,MMT105943,Spice Jet,Economy,0,190
+F03003,MMT105944,Air India Express,Premium Economy,0,114
+F03004,MMT105947,Air India Express,Economy,0,191
+F03005,MMT105948,Akasa Air Express,Economy,0,109
+F03006,MMT105949,Air India Express,Premium Economy,2,219
+F03007,MMT105953,Indigo,Economy,2,141
+F03008,MMT105956,Air India Express,Economy,0,173
+F03009,MMT105958,Air India Express,Premium Economy,0,135
+F03010,MMT105959,Spice Jet,Premium Economy,0,232
+F03011,MMT105960,Air India Express,Economy,0,209
+F03012,MMT105963,Indigo,Premium Economy,1,161
+F03013,MMT105964,Indigo,Economy,0,155
+F03014,MMT105965,Air India Express,Economy,1,86
+F03015,MMT105967,Air India Express,Business,0,213
+F03016,MMT105972,Air India Express,Economy,0,148
+F03017,MMT105973,Air India Express,Economy,1,225
+F03018,MMT105974,Indigo,Economy,0,228
+F03019,MMT105975,Akasa Air Express,Economy,1,222
+F03020,MMT105976,Spice Jet,Economy,0,130
+F03021,MMT105983,Akasa Air Express,Economy,0,196
+F03022,MMT105985,Air India Express,Economy,0,193
+F03023,MMT105986,Air India Express,Economy,0,102
+F03024,MMT105987,Air India Express,Economy,0,235
+F03025,MMT105989,Indigo,Economy,0,135
+F03026,MMT105991,Akasa Air Express,Economy,0,215
+F03027,MMT105992,Spice Jet,Economy,0,195
+F03028,MMT105994,Akasa Air Express,Business,0,184
+F03029,MMT105996,Air India Express,Economy,0,191
+F03030,MMT105997,Air India Express,Premium Economy,0,180
+F03031,MMT105999,Indigo,Economy,0,71

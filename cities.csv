@@ -1,0 +1,13 @@
+﻿city_id,city_name,state,city_tier
+1,Chennai,Tamil Nadu,Metro
+2,Mumbai,Maharashtra,Metro
+3,Delhi,Delhi,Metro
+4,Bangalore,Karnataka,Metro
+5,Hyderabad,Telangana,Metro
+6,Kolkata,West Bengal,Metro
+7,Pune,Maharashtra,Tier-1
+8,Coimbatore,Tamil Nadu,Tier-2
+9,Cochin,Kerala,Tier-2
+10,Ahmedabad,Gujarat,Tier-1
+11,Jaipur,Rajasthan,Tier-2
+12,Goa,Goa,Tier-2
